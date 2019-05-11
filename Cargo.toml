@@ -1,0 +1,10 @@
+[package]
+name = "rustdump"
+version = "0.1.0"
+authors = ["run <ramon.monsour@gmail.com>"]
+
+[dependencies]
+rand = "0.3.0"
+byteorder = "1.2.7"
+prometheus = "0.4.0"
+hex = "0.3.1"

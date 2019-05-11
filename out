@@ -1,0 +1,1043 @@
+17:49:02.160981 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [S], seq 3227921164, win 29200, options [mss 1460,sackOK,TS val 1247220683 ecr 0,nop,wscale 7], length 0
+17:49:02.162395 IP run-Z87X-UD3H.37088 > ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https: Flags [P.], seq 2516794914:2516795743, ack 202495361, win 309, options [nop,nop,TS val 3164461946 ecr 1329678031], length 829
+17:49:02.164833 IP run-Z87X-UD3H.37096 > ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https: Flags [S], seq 519920540, win 29200, options [mss 1460,sackOK,TS val 3164461949 ecr 0,nop,wscale 7], length 0
+17:49:02.193106 IP run-Z87X-UD3H.37098 > ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https: Flags [S], seq 3608503926, win 29200, options [mss 1460,sackOK,TS val 3164461977 ecr 0,nop,wscale 7], length 0
+17:49:02.226671 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [S.], seq 2190612437, ack 3227921165, win 28960, options [mss 1392,sackOK,TS val 2433904450 ecr 1247220683,nop,wscale 9], length 0
+17:49:02.226701 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 1, win 229, options [nop,nop,TS val 1247220749 ecr 2433904450], length 0
+17:49:02.227462 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 1:562, ack 1, win 229, options [nop,nop,TS val 1247220749 ecr 2433904450], length 561
+17:49:02.269000 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], ack 562, win 59, options [nop,nop,TS val 2433904461 ecr 1247220749], length 0
+17:49:02.269115 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 1:155, ack 562, win 59, options [nop,nop,TS val 2433904461 ecr 1247220749], length 154
+17:49:02.269127 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 155, win 237, options [nop,nop,TS val 1247220791 ecr 2433904461], length 0
+17:49:02.269323 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 562:613, ack 155, win 237, options [nop,nop,TS val 1247220791 ecr 2433904461], length 51
+17:49:02.270185 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 613:790, ack 155, win 237, options [nop,nop,TS val 1247220792 ecr 2433904461], length 177
+17:49:02.270350 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 790:1995, ack 155, win 237, options [nop,nop,TS val 1247220792 ecr 2433904461], length 1205
+17:49:02.307886 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], ack 790, win 61, options [nop,nop,TS val 2433904471 ecr 1247220791], length 0
+17:49:02.308802 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 155:221, ack 1995, win 66, options [nop,nop,TS val 2433904472 ecr 1247220792], length 66
+17:49:02.308881 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 1995:2033, ack 221, win 237, options [nop,nop,TS val 1247220831 ecr 2433904472], length 38
+17:49:02.327858 IP ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https > run-Z87X-UD3H.37096: Flags [S.], seq 622489515, ack 519920541, win 26847, options [mss 1392,sackOK,TS val 1329679063 ecr 3164461949,nop,wscale 8], length 0
+17:49:02.327887 IP run-Z87X-UD3H.37096 > ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https: Flags [.], ack 1, win 229, options [nop,nop,TS val 3164462112 ecr 1329679063], length 0
+17:49:02.329097 IP run-Z87X-UD3H.37096 > ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https: Flags [P.], seq 1:518, ack 1, win 229, options [nop,nop,TS val 3164462113 ecr 1329679063], length 517
+17:49:02.329143 IP ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https > run-Z87X-UD3H.37098: Flags [S.], seq 3303847733, ack 3608503927, win 26847, options [mss 1392,sackOK,TS val 1329679063 ecr 3164461977,nop,wscale 8], length 0
+17:49:02.329160 IP run-Z87X-UD3H.37098 > ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https: Flags [.], ack 1, win 229, options [nop,nop,TS val 3164462113 ecr 1329679063], length 0
+17:49:02.329284 IP ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https > run-Z87X-UD3H.37088: Flags [P.], seq 1:211, ack 829, win 119, options [nop,nop,TS val 1329679119 ecr 3164461946], length 210
+17:49:02.330330 IP run-Z87X-UD3H.37098 > ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https: Flags [P.], seq 1:518, ack 1, win 229, options [nop,nop,TS val 3164462114 ecr 1329679063], length 517
+17:49:02.373302 IP run-Z87X-UD3H.37088 > ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https: Flags [.], ack 211, win 329, options [nop,nop,TS val 3164462157 ecr 1329679119], length 0
+17:49:02.384861 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], ack 2033, win 66, options [nop,nop,TS val 2433904491 ecr 1247220831], length 0
+17:49:02.457015 IP ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https > run-Z87X-UD3H.37096: Flags [.], ack 518, win 106, options [nop,nop,TS val 1329679151 ecr 3164462113], length 0
+17:49:02.457038 IP ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https > run-Z87X-UD3H.37098: Flags [.], ack 518, win 106, options [nop,nop,TS val 1329679151 ecr 3164462114], length 0
+17:49:02.457121 IP ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https > run-Z87X-UD3H.37096: Flags [P.], seq 1:146, ack 518, win 106, options [nop,nop,TS val 1329679151 ecr 3164462113], length 145
+17:49:02.457134 IP run-Z87X-UD3H.37096 > ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https: Flags [.], ack 146, win 237, options [nop,nop,TS val 3164462241 ecr 1329679151], length 0
+17:49:02.457251 IP ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https > run-Z87X-UD3H.37098: Flags [P.], seq 1:146, ack 518, win 106, options [nop,nop,TS val 1329679151 ecr 3164462114], length 145
+17:49:02.457261 IP run-Z87X-UD3H.37098 > ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https: Flags [.], ack 146, win 237, options [nop,nop,TS val 3164462241 ecr 1329679151], length 0
+17:49:02.457458 IP run-Z87X-UD3H.37096 > ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https: Flags [P.], seq 518:569, ack 146, win 237, options [nop,nop,TS val 3164462241 ecr 1329679151], length 51
+17:49:02.458512 IP run-Z87X-UD3H.37096 > ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https: Flags [P.], seq 569:1509, ack 146, win 237, options [nop,nop,TS val 3164462242 ecr 1329679151], length 940
+17:49:02.458703 IP run-Z87X-UD3H.37098 > ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https: Flags [P.], seq 518:569, ack 146, win 237, options [nop,nop,TS val 3164462243 ecr 1329679151], length 51
+17:49:02.459541 IP run-Z87X-UD3H.37098 > ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https: Flags [P.], seq 569:1777, ack 146, win 237, options [nop,nop,TS val 3164462243 ecr 1329679151], length 1208
+17:49:02.577100 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 221:826, ack 2033, win 66, options [nop,nop,TS val 2433904539 ecr 1247220831], length 605
+17:49:02.577278 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 826:2214, ack 2033, win 66, options [nop,nop,TS val 2433904539 ecr 1247220831], length 1388
+17:49:02.577294 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 2214, win 269, options [nop,nop,TS val 1247221099 ecr 2433904539], length 0
+17:49:02.586036 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 2214:3602, ack 2033, win 66, options [nop,nop,TS val 2433904539 ecr 1247220831], length 1388
+17:49:02.586115 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 3602:3614, ack 2033, win 66, options [nop,nop,TS val 2433904539 ecr 1247220831], length 12
+17:49:02.586127 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 3614, win 292, options [nop,nop,TS val 1247221108 ecr 2433904539], length 0
+17:49:02.586958 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 3614:5002, ack 2033, win 66, options [nop,nop,TS val 2433904539 ecr 1247220831], length 1388
+17:49:02.587155 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 5002:6390, ack 2033, win 66, options [nop,nop,TS val 2433904539 ecr 1247220831], length 1388
+17:49:02.587168 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 6390, win 337, options [nop,nop,TS val 1247221109 ecr 2433904539], length 0
+17:49:02.587252 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 6390:6402, ack 2033, win 66, options [nop,nop,TS val 2433904539 ecr 1247220831], length 12
+17:49:02.588143 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 6402:7790, ack 2033, win 66, options [nop,nop,TS val 2433904539 ecr 1247220831], length 1388
+17:49:02.588157 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 7790, win 360, options [nop,nop,TS val 1247221110 ecr 2433904539], length 0
+17:49:02.588335 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 7790:9178, ack 2033, win 66, options [nop,nop,TS val 2433904539 ecr 1247220831], length 1388
+17:49:02.588436 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 9178:9190, ack 2033, win 66, options [nop,nop,TS val 2433904539 ecr 1247220831], length 12
+17:49:02.588446 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 9190, win 382, options [nop,nop,TS val 1247221110 ecr 2433904539], length 0
+17:49:02.588461 IP ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https > run-Z87X-UD3H.37098: Flags [.], ack 1777, win 116, options [nop,nop,TS val 1329679183 ecr 3164462243], length 0
+17:49:02.588550 IP ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https > run-Z87X-UD3H.37096: Flags [.], ack 1509, win 114, options [nop,nop,TS val 1329679183 ecr 3164462241], length 0
+17:49:02.588677 IP ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https > run-Z87X-UD3H.37096: Flags [P.], seq 146:356, ack 1509, win 114, options [nop,nop,TS val 1329679183 ecr 3164462241], length 210
+17:49:02.588804 IP ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https > run-Z87X-UD3H.37098: Flags [P.], seq 146:356, ack 1777, win 116, options [nop,nop,TS val 1329679184 ecr 3164462243], length 210
+17:49:02.601532 IP6 run-Z87X-UD3H.39762 > 2605:8d80:6a3:1bec::4e.domain: 19274+ [1au] A? out.reddit.com. (43)
+17:49:02.601597 IP6 run-Z87X-UD3H.40037 > 2605:8d80:6a3:1bec::4e.domain: 51845+ [1au] AAAA? out.reddit.com. (43)
+17:49:02.608106 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 9190:10578, ack 2033, win 66, options [nop,nop,TS val 2433904546 ecr 1247221099], length 1388
+17:49:02.609058 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 10578:11966, ack 2033, win 66, options [nop,nop,TS val 2433904546 ecr 1247221099], length 1388
+17:49:02.609071 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 11966, win 427, options [nop,nop,TS val 1247221131 ecr 2433904546], length 0
+17:49:02.610552 IP6 run-Z87X-UD3H.60875 > 2605:8d80:6a3:1bec::4e.domain: 61964+ [1au] A? www.redditstatic.com. (49)
+17:49:02.610627 IP6 run-Z87X-UD3H.54929 > 2605:8d80:6a3:1bec::4e.domain: 49987+ [1au] AAAA? www.redditstatic.com. (49)
+17:49:02.611107 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 2033:2168, ack 11966, win 427, options [nop,nop,TS val 1247221133 ecr 2433904546], length 135
+17:49:02.611269 IP6 run-Z87X-UD3H.47684 > 2605:8d80:6a3:1bec::4e.domain: 33258+ [1au] A? b.thumbs.redditmedia.com. (53)
+17:49:02.611545 IP6 run-Z87X-UD3H.36783 > 2605:8d80:6a3:1bec::4e.domain: 10956+ [1au] AAAA? b.thumbs.redditmedia.com. (53)
+17:49:02.611593 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 2168:2262, ack 11966, win 427, options [nop,nop,TS val 1247221134 ecr 2433904546], length 94
+17:49:02.612159 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 2262:2591, ack 11966, win 427, options [nop,nop,TS val 1247221134 ecr 2433904546], length 329
+17:49:02.612325 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 2591:2866, ack 11966, win 427, options [nop,nop,TS val 1247221134 ecr 2433904546], length 275
+17:49:02.612576 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 2866:3140, ack 11966, win 427, options [nop,nop,TS val 1247221134 ecr 2433904546], length 274
+17:49:02.612883 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 3140:3182, ack 11966, win 427, options [nop,nop,TS val 1247221135 ecr 2433904546], length 42
+17:49:02.614109 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 3182:3224, ack 11966, win 427, options [nop,nop,TS val 1247221136 ecr 2433904546], length 42
+17:49:02.614725 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 3224:3266, ack 11966, win 427, options [nop,nop,TS val 1247221137 ecr 2433904546], length 42
+17:49:02.615019 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 3266:3308, ack 11966, win 427, options [nop,nop,TS val 1247221137 ecr 2433904546], length 42
+17:49:02.615168 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 3308:3350, ack 11966, win 427, options [nop,nop,TS val 1247221137 ecr 2433904546], length 42
+17:49:02.618065 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 11966:13354, ack 2033, win 66, options [nop,nop,TS val 2433904546 ecr 1247221099], length 1388
+17:49:02.618246 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 13354:14742, ack 2033, win 66, options [nop,nop,TS val 2433904546 ecr 1247221099], length 1388
+17:49:02.618258 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 14742, win 473, options [nop,nop,TS val 1247221140 ecr 2433904546], length 0
+17:49:02.619361 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 14742:16130, ack 2033, win 66, options [nop,nop,TS val 2433904546 ecr 1247221108], length 1388
+17:49:02.619379 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 16130:17518, ack 2033, win 66, options [nop,nop,TS val 2433904546 ecr 1247221108], length 1388
+17:49:02.619392 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 17518, win 518, options [nop,nop,TS val 1247221141 ecr 2433904546], length 0
+17:49:02.619403 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 17518:18906, ack 2033, win 66, options [nop,nop,TS val 2433904546 ecr 1247221108], length 1388
+17:49:02.619713 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 18906:20294, ack 2033, win 66, options [nop,nop,TS val 2433904546 ecr 1247221108], length 1388
+17:49:02.619721 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 20294, win 563, options [nop,nop,TS val 1247221142 ecr 2433904546], length 0
+17:49:02.619732 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 20294:21682, ack 2033, win 66, options [nop,nop,TS val 2433904547 ecr 1247221109], length 1388
+17:49:02.619736 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 21682:23070, ack 2033, win 66, options [nop,nop,TS val 2433904547 ecr 1247221109], length 1388
+17:49:02.619740 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 23070, win 608, options [nop,nop,TS val 1247221142 ecr 2433904547], length 0
+17:49:02.619904 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 23070:24458, ack 2033, win 66, options [nop,nop,TS val 2433904547 ecr 1247221109], length 1388
+17:49:02.620096 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 24458:25846, ack 2033, win 66, options [nop,nop,TS val 2433904547 ecr 1247221109], length 1388
+17:49:02.620101 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 25846, win 654, options [nop,nop,TS val 1247221142 ecr 2433904547], length 0
+17:49:02.620290 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 25846:27234, ack 2033, win 66, options [nop,nop,TS val 2433904549 ecr 1247221110], length 1388
+17:49:02.620483 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 27234:28622, ack 2033, win 66, options [nop,nop,TS val 2433904549 ecr 1247221110], length 1388
+17:49:02.620489 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 28622, win 699, options [nop,nop,TS val 1247221142 ecr 2433904549], length 0
+17:49:02.620980 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 28622:30010, ack 2033, win 66, options [nop,nop,TS val 2433904549 ecr 1247221110], length 1388
+17:49:02.621172 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 30010:31398, ack 2033, win 66, options [nop,nop,TS val 2433904549 ecr 1247221110], length 1388
+17:49:02.621179 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 31398, win 744, options [nop,nop,TS val 1247221143 ecr 2433904549], length 0
+17:49:02.625066 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 31398:32786, ack 2033, win 66, options [nop,nop,TS val 2433904551 ecr 1247221110], length 1388
+17:49:02.625941 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 32786:34174, ack 2033, win 66, options [nop,nop,TS val 2433904551 ecr 1247221110], length 1388
+17:49:02.625956 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 34174, win 789, options [nop,nop,TS val 1247221148 ecr 2433904551], length 0
+17:49:02.626131 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 34174:35562, ack 2033, win 66, options [nop,nop,TS val 2433904551 ecr 1247221110], length 1388
+17:49:02.626995 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 35562:36950, ack 2033, win 66, options [nop,nop,TS val 2433904551 ecr 1247221110], length 1388
+17:49:02.627006 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 36950, win 835, options [nop,nop,TS val 1247221149 ecr 2433904551], length 0
+17:49:02.628091 IP6 run-Z87X-UD3H.39700 > 2605:8d80:6a3:1bec::4e.domain: 58214+ [1au] A? a.thumbs.redditmedia.com. (53)
+17:49:02.628155 IP6 run-Z87X-UD3H.54607 > 2605:8d80:6a3:1bec::4e.domain: 39131+ [1au] AAAA? a.thumbs.redditmedia.com. (53)
+17:49:02.629258 IP run-Z87X-UD3H.37098 > ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https: Flags [.], ack 356, win 245, options [nop,nop,TS val 3164462413 ecr 1329679184], length 0
+17:49:02.629265 IP run-Z87X-UD3H.37096 > ec2-52-43-40-243.us-west-2.compute.amazonaws.com.https: Flags [.], ack 356, win 245, options [nop,nop,TS val 3164462413 ecr 1329679183], length 0
+17:49:02.629340 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.39762: 19274 3/4/1 A 52.202.9.181, A 34.230.170.103, A 52.5.206.7 (228)
+17:49:02.629456 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.40037: 51845 0/1/1 (124)
+17:49:02.629652 IP run-Z87X-UD3H.47504 > ec2-52-202-9-181.compute-1.amazonaws.com.https: Flags [S], seq 2566978031, win 29200, options [mss 1460,sackOK,TS val 2845631120 ecr 0,nop,wscale 7], length 0
+17:49:02.646244 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 36950:38338, ack 2033, win 66, options [nop,nop,TS val 2433904556 ecr 1247221131], length 1388
+17:49:02.646305 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 38338:38540, ack 2033, win 66, options [nop,nop,TS val 2433904556 ecr 1247221131], length 202
+17:49:02.646315 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 38540, win 879, options [nop,nop,TS val 1247221168 ecr 2433904556], length 0
+17:49:02.649740 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 56298+ [1au] A? reddit.com. (39)
+17:49:02.649838 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 12514+ [1au] AAAA? reddit.com. (39)
+17:49:02.652853 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], ack 2168, win 71, options [nop,nop,TS val 2433904558 ecr 1247221133], length 0
+17:49:02.652878 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], seq 3350:4730, ack 38540, win 879, options [nop,nop,TS val 1247221175 ecr 2433904558], length 1380
+17:49:02.653943 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], ack 2262, win 71, options [nop,nop,TS val 2433904558 ecr 1247221133], length 0
+17:49:02.653954 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 4730:5797, ack 38540, win 879, options [nop,nop,TS val 1247221176 ecr 2433904558], length 1067
+17:49:02.653964 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], ack 2591, win 76, options [nop,nop,TS val 2433904558 ecr 1247221133], length 0
+17:49:02.654062 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 0
+17:49:02.654706 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 38540:39928, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.655628 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 39928:41316, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.655642 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 41316, win 924, options [nop,nop,TS val 1247221178 ecr 2433904558], length 0
+17:49:02.655719 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 41316:41328, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 12
+17:49:02.656834 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 41328:42716, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.656846 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 42716, win 947, options [nop,nop,TS val 1247221179 ecr 2433904558], length 0
+17:49:02.657024 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 42716:44104, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.657119 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 44104:44116, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 12
+17:49:02.657126 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 44116, win 970, options [nop,nop,TS val 1247221179 ecr 2433904558], length 0
+17:49:02.657623 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 44116:45504, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.658096 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 45504:46892, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.658102 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 46892, win 1015, options [nop,nop,TS val 1247221180 ecr 2433904558], length 0
+17:49:02.658203 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 46892:46904, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 12
+17:49:02.658983 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 46904:48292, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.658990 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 48292, win 1037, options [nop,nop,TS val 1247221181 ecr 2433904558], length 0
+17:49:02.659178 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 48292:49680, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.659274 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 49680:49692, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 12
+17:49:02.659279 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 49692, win 1060, options [nop,nop,TS val 1247221181 ecr 2433904558], length 0
+17:49:02.660011 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 49692:51080, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.660762 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 51080:52468, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.660770 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 52468, win 1105, options [nop,nop,TS val 1247221183 ecr 2433904558], length 0
+17:49:02.660858 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 52468:52480, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 12
+17:49:02.661422 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 52480:53868, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.661430 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 53868, win 1128, options [nop,nop,TS val 1247221183 ecr 2433904558], length 0
+17:49:02.662747 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 53868:55098, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1230
+17:49:02.662941 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 55098:56486, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.662949 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 56486, win 1172, options [nop,nop,TS val 1247221185 ecr 2433904558], length 0
+17:49:02.664862 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 56486:57874, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.664956 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 57874:57886, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 12
+17:49:02.664963 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 57886, win 1195, options [nop,nop,TS val 1247221187 ecr 2433904558], length 0
+17:49:02.665749 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 57886:59274, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.666764 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 59274:60662, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.666772 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 60662, win 1240, options [nop,nop,TS val 1247221189 ecr 2433904558], length 0
+17:49:02.666859 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 60662:60674, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 12
+17:49:02.667642 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 60674:62062, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.667650 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 62062, win 1263, options [nop,nop,TS val 1247221190 ecr 2433904558], length 0
+17:49:02.667835 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 62062:63450, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.667931 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 63450:63462, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 12
+17:49:02.667937 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 63462, win 1285, options [nop,nop,TS val 1247221190 ecr 2433904558], length 0
+17:49:02.668779 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 63462:64850, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.669771 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 64850:66238, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.669776 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 66238, win 1331, options [nop,nop,TS val 1247221192 ecr 2433904558], length 0
+17:49:02.669867 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 66238:66250, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 12
+17:49:02.670656 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 66250:67638, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.670662 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 67638, win 1353, options [nop,nop,TS val 1247221193 ecr 2433904558], length 0
+17:49:02.670848 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 67638:69026, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.670945 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 69026:69038, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 12
+17:49:02.670949 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 69038, win 1376, options [nop,nop,TS val 1247221193 ecr 2433904558], length 0
+17:49:02.671727 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 69038:70426, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.672744 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 70426:71656, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1230
+17:49:02.672751 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 71656, win 1420, options [nop,nop,TS val 1247221195 ecr 2433904558], length 0
+17:49:02.675329 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 71656:73044, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.675516 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 73044:74432, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.675523 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 74432, win 1444, options [nop,nop,TS val 1247221197 ecr 2433904558], length 0
+17:49:02.675792 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 74432:75820, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.675798 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 75820:77208, ack 2866, win 80, options [nop,nop,TS val 2433904558 ecr 1247221133], length 1388
+17:49:02.675821 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 77208, win 1444, options [nop,nop,TS val 1247221198 ecr 2433904558], length 0
+17:49:02.675887 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], ack 3182, win 85, options [nop,nop,TS val 2433904558 ecr 1247221133], length 0
+17:49:02.676412 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], ack 3350, win 85, options [nop,nop,TS val 2433904560 ecr 1247221133], length 0
+17:49:02.677427 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.39700: 58214 2/4/1 CNAME reddit.map.fastly.net., A 151.101.125.140 (176)
+17:49:02.677709 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54607: 39131 1/1/1 CNAME reddit.map.fastly.net. (146)
+17:49:02.677798 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 9846+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.677832 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.60875: 61964 2/4/1 CNAME reddit.map.fastly.net., A 151.101.125.140 (172)
+17:49:02.677951 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54929: 49987 1/1/1 CNAME reddit.map.fastly.net. (142)
+17:49:02.678200 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.47684: 33258 2/4/1 CNAME reddit.map.fastly.net., A 151.101.125.140 (176)
+17:49:02.678606 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36783: 10956 1/1/1 CNAME reddit.map.fastly.net. (146)
+17:49:02.680707 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 9846 0/0/0 (39)
+17:49:02.680762 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 53489+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.680914 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 77208:78596, ack 3350, win 85, options [nop,nop,TS val 2433904565 ecr 1247221168], length 1388
+17:49:02.681744 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 78596:79984, ack 3350, win 85, options [nop,nop,TS val 2433904565 ecr 1247221168], length 1388
+17:49:02.681751 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 79984, win 1444, options [nop,nop,TS val 1247221204 ecr 2433904565], length 0
+17:49:02.681935 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 79984:81372, ack 3350, win 85, options [nop,nop,TS val 2433904565 ecr 1247221168], length 1388
+17:49:02.682792 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 81372:82760, ack 3350, win 85, options [nop,nop,TS val 2433904565 ecr 1247221168], length 1388
+17:49:02.682798 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 82760, win 1444, options [nop,nop,TS val 1247221205 ecr 2433904565], length 0
+17:49:02.682895 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 53489 0/0/0 (39)
+17:49:02.682944 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 21471+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.684178 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 56298 4/4/1 A 151.101.193.140, A 151.101.65.140, A 151.101.1.140, A 151.101.129.140 (240)
+17:49:02.684236 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 34150+ [1au] A? reddit.com. (39)
+17:49:02.685187 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 21471 0/0/0 (39)
+17:49:02.685242 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 36941+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.686517 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 34150 4/0/0 A 151.101.193.140, A 151.101.129.140, A 151.101.1.140, A 151.101.65.140 (92)
+17:49:02.686601 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 57278+ [1au] A? reddit.com. (39)
+17:49:02.686631 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 36941 0/0/0 (39)
+17:49:02.686675 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 18722+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.689078 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 57278 4/0/0 A 151.101.1.140, A 151.101.65.140, A 151.101.193.140, A 151.101.129.140 (92)
+17:49:02.689147 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 47405+ [1au] A? reddit.com. (39)
+17:49:02.689192 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 18722 0/0/0 (39)
+17:49:02.689222 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 14076+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.689776 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 82760:84148, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.689969 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 84148:85536, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.689979 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 85536, win 1444, options [nop,nop,TS val 1247221212 ecr 2433904567], length 0
+17:49:02.690847 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 85536:86924, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.691038 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 86924:88312, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.691045 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 88312, win 1444, options [nop,nop,TS val 1247221213 ecr 2433904567], length 0
+17:49:02.691233 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 88312:89700, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.691571 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 47405 4/0/0 A 151.101.193.140, A 151.101.129.140, A 151.101.1.140, A 151.101.65.140 (92)
+17:49:02.691639 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 1655+ [1au] A? reddit.com. (39)
+17:49:02.691689 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 14076 0/0/0 (39)
+17:49:02.691726 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 32243+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.691901 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 89700:91088, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.691909 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 91088, win 1451, options [nop,nop,TS val 1247221214 ecr 2433904567], length 0
+17:49:02.694457 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 91088:92476, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.694642 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 92476:93864, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.694649 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 93864, win 1451, options [nop,nop,TS val 1247221217 ecr 2433904567], length 0
+17:49:02.695002 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 93864:95252, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.695011 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 95252:96640, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.695017 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 96640:98028, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.695041 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 98028, win 1461, options [nop,nop,TS val 1247221217 ecr 2433904567], length 0
+17:49:02.695294 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 98028:99416, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.695301 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 99416:100804, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.695306 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 1655 4/0/0 A 151.101.1.140, A 151.101.65.140, A 151.101.193.140, A 151.101.129.140 (92)
+17:49:02.695329 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 100804, win 1461, options [nop,nop,TS val 1247221217 ecr 2433904567], length 0
+17:49:02.695369 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 27768+ [1au] A? reddit.com. (39)
+17:49:02.695489 IP ec2-52-202-9-181.compute-1.amazonaws.com.https > run-Z87X-UD3H.47504: Flags [S.], seq 870342821, ack 2566978032, win 26847, options [mss 1392,sackOK,TS val 3931127750 ecr 2845631120,nop,wscale 8], length 0
+17:49:02.695509 IP run-Z87X-UD3H.47504 > ec2-52-202-9-181.compute-1.amazonaws.com.https: Flags [.], ack 1, win 229, options [nop,nop,TS val 2845631185 ecr 3931127750], length 0
+17:49:02.695516 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 100804:102192, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.695679 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 102192:103580, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.695872 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 103580:104968, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.696067 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 104968:106356, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.696256 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 106356:107744, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.696645 IP run-Z87X-UD3H.47504 > ec2-52-202-9-181.compute-1.amazonaws.com.https: Flags [P.], seq 1:518, ack 1, win 229, options [nop,nop,TS val 2845631187 ecr 3931127750], length 517
+17:49:02.696711 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 107744, win 1422, options [nop,nop,TS val 1247221219 ecr 2433904567], length 0
+17:49:02.696894 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 107744:109132, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.697086 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 109132:110520, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.697094 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 110520, win 1451, options [nop,nop,TS val 1247221219 ecr 2433904567], length 0
+17:49:02.697284 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 110520:111908, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.701019 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 111908:113296, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.701035 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 113296, win 1451, options [nop,nop,TS val 1247221223 ecr 2433904567], length 0
+17:49:02.701197 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 113296:114684, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.701565 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 114684:116072, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.701574 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 116072, win 1451, options [nop,nop,TS val 1247221223 ecr 2433904567], length 0
+17:49:02.701582 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 116072:117460, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.701587 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 117460:118848, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.701592 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 32243 0/0/0 (39)
+17:49:02.701622 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 118848, win 1461, options [nop,nop,TS val 1247221224 ecr 2433904567], length 0
+17:49:02.701683 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 10160+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.701861 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 118848:120236, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.701869 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 120236:121624, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.701890 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 121624, win 1441, options [nop,nop,TS val 1247221224 ecr 2433904567], length 0
+17:49:02.702209 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 121624:123012, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.702217 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 123012:124400, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.702222 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 124400, win 1441, options [nop,nop,TS val 1247221224 ecr 2433904567], length 0
+17:49:02.702228 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 124400:125788, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.702391 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 125788:127176, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.702398 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 127176, win 1451, options [nop,nop,TS val 1247221224 ecr 2433904567], length 0
+17:49:02.702591 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 127176:128564, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.702776 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 128564:129952, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.702782 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 129952, win 1451, options [nop,nop,TS val 1247221225 ecr 2433904567], length 0
+17:49:02.702968 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 129952:131340, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.703360 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 27768 4/0/0 A 151.101.193.140, A 151.101.129.140, A 151.101.1.140, A 151.101.65.140 (92)
+17:49:02.703430 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 45242+ [1au] A? reddit.com. (39)
+17:49:02.704037 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 131340:132728, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.704045 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 132728, win 1451, options [nop,nop,TS val 1247221226 ecr 2433904567], length 0
+17:49:02.704230 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 132728:134116, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.704433 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 134116:135504, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.704440 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 135504, win 1451, options [nop,nop,TS val 1247221226 ecr 2433904567], length 0
+17:49:02.704922 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 135504:136892, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.705051 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 136892:137308, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 416
+17:49:02.705060 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 137308, win 1451, options [nop,nop,TS val 1247221227 ecr 2433904567], length 0
+17:49:02.707328 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 10160 0/0/0 (39)
+17:49:02.707440 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 45242 4/0/0 A 151.101.1.140, A 151.101.65.140, A 151.101.193.140, A 151.101.129.140 (92)
+17:49:02.707442 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 13225+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.707504 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 9084+ [1au] A? reddit.com. (39)
+17:49:02.709795 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 13225 0/0/0 (39)
+17:49:02.709886 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 42418+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.709911 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 9084 4/0/0 A 151.101.193.140, A 151.101.129.140, A 151.101.1.140, A 151.101.65.140 (92)
+17:49:02.709977 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 22171+ [1au] A? reddit.com. (39)
+17:49:02.711190 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 42418 0/0/0 (39)
+17:49:02.711254 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 32993+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.715920 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 22171 4/0/0 A 151.101.1.140, A 151.101.65.140, A 151.101.193.140, A 151.101.129.140 (92)
+17:49:02.715929 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 137308:138696, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.715948 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 138696:140084, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.715954 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 140084:141472, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.715960 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 141472:142860, ack 4730, win 90, options [nop,nop,TS val 2433904567 ecr 1247221175], length 1388
+17:49:02.715965 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 142860:144248, ack 5797, win 96, options [nop,nop,TS val 2433904569 ecr 1247221175], length 1388
+17:49:02.715974 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 144248:145636, ack 5797, win 96, options [nop,nop,TS val 2433904569 ecr 1247221175], length 1388
+17:49:02.715979 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 145636:147024, ack 5797, win 96, options [nop,nop,TS val 2433904569 ecr 1247221193], length 1388
+17:49:02.715984 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 147024:148412, ack 5797, win 96, options [nop,nop,TS val 2433904569 ecr 1247221193], length 1388
+17:49:02.715990 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 148412:149800, ack 5797, win 96, options [nop,nop,TS val 2433904569 ecr 1247221195], length 1388
+17:49:02.716001 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 6687+ [1au] A? reddit.com. (39)
+17:49:02.716034 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 149800, win 1375, options [nop,nop,TS val 1247221238 ecr 2433904567], length 0
+17:49:02.716441 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 149800:151188, ack 5797, win 96, options [nop,nop,TS val 2433904569 ecr 1247221195], length 1388
+17:49:02.716451 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 151188:152576, ack 5797, win 96, options [nop,nop,TS val 2433904569 ecr 1247221197], length 1388
+17:49:02.716457 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 152576, win 1441, options [nop,nop,TS val 1247221238 ecr 2433904569], length 0
+17:49:02.716466 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 152576:153964, ack 5797, win 96, options [nop,nop,TS val 2433904569 ecr 1247221197], length 1388
+17:49:02.716471 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 153964:155352, ack 5797, win 96, options [nop,nop,TS val 2433904569 ecr 1247221198], length 1388
+17:49:02.716476 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 155352:156740, ack 5797, win 96, options [nop,nop,TS val 2433904569 ecr 1247221198], length 1388
+17:49:02.716500 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 156740, win 1413, options [nop,nop,TS val 1247221238 ecr 2433904569], length 0
+17:49:02.716802 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 156740:158128, ack 5797, win 96, options [nop,nop,TS val 2433904569 ecr 1247221198], length 1388
+17:49:02.716816 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 158128:159516, ack 5797, win 96, options [nop,nop,TS val 2433904572 ecr 1247221204], length 1388
+17:49:02.716823 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 159516, win 1441, options [nop,nop,TS val 1247221239 ecr 2433904569], length 0
+17:49:02.716831 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 159516:160904, ack 5797, win 96, options [nop,nop,TS val 2433904572 ecr 1247221204], length 1388
+17:49:02.717077 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 160904:162292, ack 5797, win 96, options [nop,nop,TS val 2433904572 ecr 1247221205], length 1388
+17:49:02.717087 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 162292, win 1451, options [nop,nop,TS val 1247221239 ecr 2433904572], length 0
+17:49:02.717096 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 162292:163680, ack 5797, win 96, options [nop,nop,TS val 2433904572 ecr 1247221205], length 1388
+17:49:02.717186 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 32993 0/0/0 (39)
+17:49:02.717264 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 17595+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.717296 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 12514 0/1/1 (120)
+17:49:02.717350 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 54864+ [1au] AAAA? reddit.com. (39)
+17:49:02.721766 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 163680:165068, ack 5797, win 96, options [nop,nop,TS val 2433904574 ecr 1247221212], length 1388
+17:49:02.721783 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 165068, win 1451, options [nop,nop,TS val 1247221244 ecr 2433904572], length 0
+17:49:02.721798 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 165068:166456, ack 5797, win 96, options [nop,nop,TS val 2433904574 ecr 1247221212], length 1388
+17:49:02.721846 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 6687 4/0/0 A 151.101.193.140, A 151.101.129.140, A 151.101.1.140, A 151.101.65.140 (92)
+17:49:02.721937 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 32984+ [1au] A? reddit.com. (39)
+17:49:02.722701 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 166456:167844, ack 5797, win 96, options [nop,nop,TS val 2433904574 ecr 1247221213], length 1388
+17:49:02.722715 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 167844, win 1451, options [nop,nop,TS val 1247221245 ecr 2433904574], length 0
+17:49:02.722729 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 167844:169232, ack 5797, win 96, options [nop,nop,TS val 2433904574 ecr 1247221213], length 1388
+17:49:02.722798 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 17595 0/0/0 (39)
+17:49:02.722865 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 14137+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.722908 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 54864 0/0/0 (28)
+17:49:02.722963 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 49865+ [1au] AAAA? reddit.com. (39)
+17:49:02.724076 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 32984 4/0/0 A 151.101.1.140, A 151.101.65.140, A 151.101.193.140, A 151.101.129.140 (92)
+17:49:02.724136 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 32918+ [1au] A? reddit.com. (39)
+17:49:02.725569 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 14137 0/0/0 (39)
+17:49:02.725644 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 35697+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.725681 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 49865 0/0/0 (28)
+17:49:02.725732 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 3182+ [1au] AAAA? reddit.com. (39)
+17:49:02.725800 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 32918 4/0/0 A 151.101.193.140, A 151.101.129.140, A 151.101.1.140, A 151.101.65.140 (92)
+17:49:02.725852 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 57320+ [1au] A? reddit.com. (39)
+17:49:02.726796 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 169232:170620, ack 5797, win 96, options [nop,nop,TS val 2433904576 ecr 1247221214], length 1388
+17:49:02.726816 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 170620, win 1451, options [nop,nop,TS val 1247221249 ecr 2433904574], length 0
+17:49:02.729760 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 170620:172008, ack 5797, win 96, options [nop,nop,TS val 2433904576 ecr 1247221214], length 1388
+17:49:02.729948 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 172008:173396, ack 5797, win 96, options [nop,nop,TS val 2433904576 ecr 1247221217], length 1388
+17:49:02.729958 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 173396, win 1484, options [nop,nop,TS val 1247221252 ecr 2433904576], length 0
+17:49:02.730464 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 173396:174784, ack 5797, win 96, options [nop,nop,TS val 2433904576 ecr 1247221217], length 1388
+17:49:02.730472 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 35697 0/0/0 (39)
+17:49:02.730482 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 3182 0/0/0 (28)
+17:49:02.730486 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 57320 4/0/0 A 151.101.1.140, A 151.101.65.140, A 151.101.193.140, A 151.101.129.140 (92)
+17:49:02.730541 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 16134+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.730583 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 11375+ [1au] AAAA? reddit.com. (39)
+17:49:02.730617 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 45981+ [1au] A? reddit.com. (39)
+17:49:02.730754 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 174784:176172, ack 5797, win 96, options [nop,nop,TS val 2433904577 ecr 1247221217], length 1388
+17:49:02.730761 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 176172, win 1529, options [nop,nop,TS val 1247221253 ecr 2433904576], length 0
+17:49:02.730768 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 176172:177560, ack 5797, win 96, options [nop,nop,TS val 2433904577 ecr 1247221217], length 1388
+17:49:02.730946 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 177560:178948, ack 5797, win 96, options [nop,nop,TS val 2433904577 ecr 1247221217], length 1388
+17:49:02.730954 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 178948, win 1574, options [nop,nop,TS val 1247221253 ecr 2433904577], length 0
+17:49:02.731739 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 178948:180336, ack 5797, win 96, options [nop,nop,TS val 2433904577 ecr 1247221217], length 1388
+17:49:02.733414 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 16134 0/0/0 (39)
+17:49:02.733450 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 25715+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.733528 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 11375 0/0/0 (28)
+17:49:02.733548 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 60009+ [1au] AAAA? reddit.com. (39)
+17:49:02.733650 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 45981 4/0/0 A 151.101.193.140, A 151.101.129.140, A 151.101.1.140, A 151.101.65.140 (92)
+17:49:02.733674 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 26206+ [1au] A? reddit.com. (39)
+17:49:02.734650 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 180336:181724, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221219], length 1388
+17:49:02.734659 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 181724, win 1620, options [nop,nop,TS val 1247221257 ecr 2433904577], length 0
+17:49:02.734843 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 181724:183112, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221219], length 1388
+17:49:02.735762 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 183112:184500, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221219], length 1388
+17:49:02.735768 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 184500, win 1665, options [nop,nop,TS val 1247221258 ecr 2433904578], length 0
+17:49:02.735956 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 184500:185888, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221219], length 1388
+17:49:02.736391 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 25715 0/0/0 (39)
+17:49:02.736444 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 50275+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.736516 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 60009 0/0/0 (28)
+17:49:02.736550 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 20486+ [1au] AAAA? reddit.com. (39)
+17:49:02.736636 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 26206 4/0/0 A 151.101.1.140, A 151.101.65.140, A 151.101.193.140, A 151.101.129.140 (92)
+17:49:02.736660 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 22556+ [1au] A? reddit.com. (39)
+17:49:02.737616 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 185888:187276, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221219], length 1388
+17:49:02.737621 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 187276, win 1710, options [nop,nop,TS val 1247221260 ecr 2433904578], length 0
+17:49:02.737807 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 187276:188664, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221219], length 1388
+17:49:02.738705 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 188664:190052, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221219], length 1388
+17:49:02.738717 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 190052, win 1755, options [nop,nop,TS val 1247221261 ecr 2433904578], length 0
+17:49:02.739355 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 50275 0/0/0 (39)
+17:49:02.739444 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 25334+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.739476 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 20486 0/0/0 (28)
+17:49:02.739513 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 63101+ [1au] AAAA? reddit.com. (39)
+17:49:02.739594 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 22556 4/0/0 A 151.101.193.140, A 151.101.129.140, A 151.101.1.140, A 151.101.65.140 (92)
+17:49:02.739629 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 9322+ [1au] A? reddit.com. (39)
+17:49:02.741650 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 25334 0/0/0 (39)
+17:49:02.741690 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 55418+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.741756 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 63101 0/0/0 (28)
+17:49:02.741780 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 54147+ [1au] AAAA? reddit.com. (39)
+17:49:02.741889 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 9322 4/0/0 A 151.101.1.140, A 151.101.65.140, A 151.101.193.140, A 151.101.129.140 (92)
+17:49:02.741914 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 60287+ [1au] A? reddit.com. (39)
+17:49:02.744398 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 55418 0/0/0 (39)
+17:49:02.744436 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 49757+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.744799 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 54147 0/0/0 (28)
+17:49:02.744831 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 131+ [1au] AAAA? reddit.com. (39)
+17:49:02.744916 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 60287 4/0/0 A 151.101.193.140, A 151.101.129.140, A 151.101.1.140, A 151.101.65.140 (92)
+17:49:02.744949 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 55173+ [1au] A? reddit.com. (39)
+17:49:02.747037 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 190052:191440, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221219], length 1388
+17:49:02.747055 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 191440:192828, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221223], length 1388
+17:49:02.747064 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 192828, win 1801, options [nop,nop,TS val 1247221269 ecr 2433904578], length 0
+17:49:02.747073 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 192828:194216, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221223], length 1388
+17:49:02.747308 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 194216:195604, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221223], length 1388
+17:49:02.747315 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 195604, win 1846, options [nop,nop,TS val 1247221269 ecr 2433904578], length 0
+17:49:02.747324 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 195604:196992, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221223], length 1388
+17:49:02.747503 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 196992:198380, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221224], length 1388
+17:49:02.747512 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 198380, win 1891, options [nop,nop,TS val 1247221269 ecr 2433904578], length 0
+17:49:02.747694 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 198380:199768, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221224], length 1388
+17:49:02.747793 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 49757 0/0/0 (39)
+17:49:02.747849 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 31213+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.747912 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 131 0/0/0 (28)
+17:49:02.747947 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 16016+ [1au] AAAA? reddit.com. (39)
+17:49:02.748503 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 55173 4/0/0 A 151.101.1.140, A 151.101.65.140, A 151.101.193.140, A 151.101.129.140 (92)
+17:49:02.748542 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 38557+ [1au] A? reddit.com. (39)
+17:49:02.749070 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 199768:201156, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221224], length 1388
+17:49:02.749078 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 201156, win 1936, options [nop,nop,TS val 1247221271 ecr 2433904578], length 0
+17:49:02.749088 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 201156:202544, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221224], length 1388
+17:49:02.749347 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 202544:203932, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221224], length 1388
+17:49:02.749353 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 203932, win 1982, options [nop,nop,TS val 1247221271 ecr 2433904578], length 0
+17:49:02.749361 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 203932:205320, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221224], length 1388
+17:49:02.749528 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 205320:206708, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221224], length 1388
+17:49:02.749535 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 206708, win 2027, options [nop,nop,TS val 1247221271 ecr 2433904578], length 0
+17:49:02.749720 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 206708:208096, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221224], length 1388
+17:49:02.751023 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 31213 0/0/0 (39)
+17:49:02.751072 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 6331+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.751425 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 16016 0/0/0 (28)
+17:49:02.751464 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 40065+ [1au] AAAA? reddit.com. (39)
+17:49:02.751546 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 38557 4/0/0 A 151.101.193.140, A 151.101.129.140, A 151.101.1.140, A 151.101.65.140 (92)
+17:49:02.751582 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 54470+ [1au] A? reddit.com. (39)
+17:49:02.752323 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 208096:209484, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221225], length 1388
+17:49:02.752331 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 209484, win 2072, options [nop,nop,TS val 1247221274 ecr 2433904578], length 0
+17:49:02.752339 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 209484:210872, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221225], length 1388
+17:49:02.752344 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 210872:212260, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221225], length 1388
+17:49:02.752348 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 212260, win 2117, options [nop,nop,TS val 1247221274 ecr 2433904578], length 0
+17:49:02.752526 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 212260:213648, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221225], length 1388
+17:49:02.752808 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 213648:215036, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221226], length 1388
+17:49:02.752814 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 215036, win 2163, options [nop,nop,TS val 1247221275 ecr 2433904578], length 0
+17:49:02.752821 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 215036:216424, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221226], length 1388
+17:49:02.752826 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 6331 0/0/0 (39)
+17:49:02.752877 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 15411+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.753002 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 216424:217812, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221226], length 1388
+17:49:02.753008 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 217812, win 2208, options [nop,nop,TS val 1247221275 ecr 2433904578], length 0
+17:49:02.753603 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 217812:219200, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221226], length 1388
+17:49:02.753611 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 219200:220588, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221227], length 1388
+17:49:02.753616 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 220588, win 2253, options [nop,nop,TS val 1247221276 ecr 2433904578], length 0
+17:49:02.753703 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 40065 0/0/0 (28)
+17:49:02.753748 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 21131+ [1au] AAAA? reddit.com. (39)
+17:49:02.753824 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 54470 4/0/0 A 151.101.1.140, A 151.101.65.140, A 151.101.193.140, A 151.101.129.140 (92)
+17:49:02.753859 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 29071+ [1au] A? reddit.com. (39)
+17:49:02.755944 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 220588:221976, ack 5797, win 96, options [nop,nop,TS val 2433904578 ecr 1247221227], length 1388
+17:49:02.755961 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 221976:223364, ack 5797, win 96, options [nop,nop,TS val 2433904581 ecr 1247221238], length 1388
+17:49:02.755969 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 223364, win 2298, options [nop,nop,TS val 1247221278 ecr 2433904578], length 0
+17:49:02.756132 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 223364:224752, ack 5797, win 96, options [nop,nop,TS val 2433904581 ecr 1247221238], length 1388
+17:49:02.756327 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 224752:226140, ack 5797, win 96, options [nop,nop,TS val 2433904581 ecr 1247221238], length 1388
+17:49:02.756336 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 226140, win 2344, options [nop,nop,TS val 1247221278 ecr 2433904581], length 0
+17:49:02.757015 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 15411 0/0/0 (39)
+17:49:02.757111 IP6 run-Z87X-UD3H.36227 > 2605:8d80:6a3:1bec::4e.domain: 23646+ [1au] AAAA? reddit.map.fastly.net. (50)
+17:49:02.757128 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 21131 0/0/0 (28)
+17:49:02.757169 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 35992+ [1au] AAAA? reddit.com. (39)
+17:49:02.757472 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 29071 4/0/0 A 151.101.193.140, A 151.101.129.140, A 151.101.1.140, A 151.101.65.140 (92)
+17:49:02.757536 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 21647+ [1au] A? reddit.com. (39)
+17:49:02.758886 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 226140:227528, ack 5797, win 96, options [nop,nop,TS val 2433904581 ecr 1247221238], length 1388
+17:49:02.758901 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 227528:228916, ack 5797, win 96, options [nop,nop,TS val 2433904581 ecr 1247221238], length 1388
+17:49:02.758910 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 228916, win 2389, options [nop,nop,TS val 1247221281 ecr 2433904581], length 0
+17:49:02.758921 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 228916:230304, ack 5797, win 96, options [nop,nop,TS val 2433904581 ecr 1247221238], length 1388
+17:49:02.759079 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 230304:231692, ack 5797, win 96, options [nop,nop,TS val 2433904581 ecr 1247221238], length 1388
+17:49:02.759088 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 231692, win 2434, options [nop,nop,TS val 1247221281 ecr 2433904581], length 0
+17:49:02.759271 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 231692:233080, ack 5797, win 96, options [nop,nop,TS val 2433904581 ecr 1247221238], length 1388
+17:49:02.759454 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 233080:234468, ack 5797, win 96, options [nop,nop,TS val 2433904581 ecr 1247221238], length 1388
+17:49:02.759463 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 234468, win 2479, options [nop,nop,TS val 1247221281 ecr 2433904581], length 0
+17:49:02.759557 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36227: 23646 0/0/0 (39)
+17:49:02.759680 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 35992 0/0/0 (28)
+17:49:02.759728 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 21460+ [1au] AAAA? reddit.com. (39)
+17:49:02.759800 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 21647 4/0/0 A 151.101.1.140, A 151.101.65.140, A 151.101.193.140, A 151.101.129.140 (92)
+17:49:02.759842 IP6 run-Z87X-UD3H.54453 > 2605:8d80:6a3:1bec::4e.domain: 24747+ [1au] A? reddit.com. (39)
+17:49:02.761819 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 234468:235856, ack 5797, win 96, options [nop,nop,TS val 2433904581 ecr 1247221238], length 1388
+17:49:02.762002 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 235856:237244, ack 5797, win 96, options [nop,nop,TS val 2433904581 ecr 1247221238], length 1388
+17:49:02.762013 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 237244, win 2525, options [nop,nop,TS val 1247221284 ecr 2433904581], length 0
+17:49:02.762662 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 21460 0/0/0 (28)
+17:49:02.762740 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 45929+ [1au] AAAA? reddit.com. (39)
+17:49:02.762772 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.54453: 24747 4/0/0 A 151.101.193.140, A 151.101.129.140, A 151.101.1.140, A 151.101.65.140 (92)
+17:49:02.765535 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 45929 0/0/0 (28)
+17:49:02.765597 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 58242+ [1au] AAAA? reddit.com. (39)
+17:49:02.767840 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 58242 0/0/0 (28)
+17:49:02.767895 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 28669+ [1au] AAAA? reddit.com. (39)
+17:49:02.770107 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 28669 0/0/0 (28)
+17:49:02.770161 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 64763+ [1au] AAAA? reddit.com. (39)
+17:49:02.770831 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 237244:238632, ack 5797, win 96, options [nop,nop,TS val 2433904581 ecr 1247221238], length 1388
+17:49:02.770851 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 238632:240020, ack 5797, win 96, options [nop,nop,TS val 2433904581 ecr 1247221238], length 1388
+17:49:02.770861 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 240020, win 2570, options [nop,nop,TS val 1247221293 ecr 2433904581], length 0
+17:49:02.771274 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 240020:241408, ack 5797, win 96, options [nop,nop,TS val 2433904581 ecr 1247221238], length 1388
+17:49:02.771285 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 241408:242796, ack 5797, win 96, options [nop,nop,TS val 2433904583 ecr 1247221239], length 1388
+17:49:02.771292 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 242796, win 2615, options [nop,nop,TS val 1247221293 ecr 2433904581], length 0
+17:49:02.771308 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 242796:244184, ack 5797, win 96, options [nop,nop,TS val 2433904583 ecr 1247221239], length 1388
+17:49:02.771311 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 244184:245572, ack 5797, win 96, options [nop,nop,TS val 2433904583 ecr 1247221239], length 1388
+17:49:02.771314 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 245572, win 2660, options [nop,nop,TS val 1247221293 ecr 2433904583], length 0
+17:49:02.771785 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 245572:246960, ack 5797, win 96, options [nop,nop,TS val 2433904583 ecr 1247221239], length 1388
+17:49:02.771794 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 246960:248348, ack 5797, win 96, options [nop,nop,TS val 2433904583 ecr 1247221244], length 1388
+17:49:02.771800 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 248348, win 2706, options [nop,nop,TS val 1247221294 ecr 2433904583], length 0
+17:49:02.771805 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 248348:249736, ack 5797, win 96, options [nop,nop,TS val 2433904583 ecr 1247221244], length 1388
+17:49:02.771810 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 249736:251124, ack 5797, win 96, options [nop,nop,TS val 2433904583 ecr 1247221245], length 1388
+17:49:02.771812 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 251124, win 2751, options [nop,nop,TS val 1247221294 ecr 2433904583], length 0
+17:49:02.771816 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 251124:252512, ack 5797, win 96, options [nop,nop,TS val 2433904583 ecr 1247221245], length 1388
+17:49:02.772143 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 252512:253900, ack 5797, win 96, options [nop,nop,TS val 2433904583 ecr 1247221249], length 1388
+17:49:02.772149 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 253900, win 2796, options [nop,nop,TS val 1247221294 ecr 2433904583], length 0
+17:49:02.772154 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 253900:255288, ack 5797, win 96, options [nop,nop,TS val 2433904583 ecr 1247221249], length 1388
+17:49:02.772158 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 255288:256676, ack 5797, win 96, options [nop,nop,TS val 2433904583 ecr 1247221252], length 1388
+17:49:02.772160 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 256676, win 2841, options [nop,nop,TS val 1247221294 ecr 2433904583], length 0
+17:49:02.772335 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 256676:258064, ack 5797, win 96, options [nop,nop,TS val 2433904583 ecr 1247221252], length 1388
+17:49:02.772538 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 258064:259452, ack 5797, win 96, options [nop,nop,TS val 2433904583 ecr 1247221253], length 1388
+17:49:02.772544 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 259452, win 2887, options [nop,nop,TS val 1247221294 ecr 2433904583], length 0
+17:49:02.772719 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 259452:260840, ack 5797, win 96, options [nop,nop,TS val 2433904583 ecr 1247221253], length 1388
+17:49:02.772819 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 64763 0/0/0 (28)
+17:49:02.772883 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 48464+ [1au] AAAA? reddit.com. (39)
+17:49:02.773934 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 260840:262228, ack 5797, win 96, options [nop,nop,TS val 2433904584 ecr 1247221253], length 1388
+17:49:02.773953 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 262228, win 2932, options [nop,nop,TS val 1247221296 ecr 2433904583], length 0
+17:49:02.773964 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 262228:263616, ack 5797, win 96, options [nop,nop,TS val 2433904584 ecr 1247221253], length 1388
+17:49:02.773969 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 263616:265004, ack 5797, win 96, options [nop,nop,TS val 2433904584 ecr 1247221253], length 1388
+17:49:02.773971 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 265004, win 2977, options [nop,nop,TS val 1247221296 ecr 2433904584], length 0
+17:49:02.774122 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 265004:266392, ack 5797, win 96, options [nop,nop,TS val 2433904584 ecr 1247221257], length 1388
+17:49:02.774407 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 266392:267780, ack 5797, win 96, options [nop,nop,TS val 2433904584 ecr 1247221257], length 1388
+17:49:02.774413 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 267780, win 3022, options [nop,nop,TS val 1247221296 ecr 2433904584], length 0
+17:49:02.774420 IP ec2-52-202-9-181.compute-1.amazonaws.com.https > run-Z87X-UD3H.47504: Flags [.], ack 518, win 110, options [nop,nop,TS val 3931127769 ecr 2845631187], length 0
+17:49:02.774428 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 267780:269168, ack 5797, win 96, options [nop,nop,TS val 2433904586 ecr 1247221258], length 1388
+17:49:02.774681 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 269168:270556, ack 5797, win 96, options [nop,nop,TS val 2433904586 ecr 1247221258], length 1388
+17:49:02.774687 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 270556:271944, ack 5797, win 96, options [nop,nop,TS val 2433904586 ecr 1247221260], length 1388
+17:49:02.774704 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 271944, win 3011, options [nop,nop,TS val 1247221297 ecr 2433904586], length 0
+17:49:02.774874 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 271944:273332, ack 5797, win 96, options [nop,nop,TS val 2433904586 ecr 1247221260], length 1388
+17:49:02.775067 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 273332:274720, ack 5797, win 96, options [nop,nop,TS val 2433904586 ecr 1247221261], length 1388
+17:49:02.775074 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 274720, win 3039, options [nop,nop,TS val 1247221297 ecr 2433904586], length 0
+17:49:02.775262 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 274720:276108, ack 5797, win 96, options [nop,nop,TS val 2433904586 ecr 1247221261], length 1388
+17:49:02.775994 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 276108:277496, ack 5797, win 96, options [nop,nop,TS val 2433904586 ecr 1247221261], length 1388
+17:49:02.776004 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 277496, win 3039, options [nop,nop,TS val 1247221298 ecr 2433904586], length 0
+17:49:02.776185 IP ec2-52-202-9-181.compute-1.amazonaws.com.https > run-Z87X-UD3H.47504: Flags [.], seq 1:1389, ack 518, win 110, options [nop,nop,TS val 3931127769 ecr 2845631187], length 1388
+17:49:02.776191 IP run-Z87X-UD3H.47504 > ec2-52-202-9-181.compute-1.amazonaws.com.https: Flags [.], ack 1389, win 251, options [nop,nop,TS val 2845631266 ecr 3931127769], length 0
+17:49:02.776380 IP ec2-52-202-9-181.compute-1.amazonaws.com.https > run-Z87X-UD3H.47504: Flags [.], seq 1389:2777, ack 518, win 110, options [nop,nop,TS val 3931127769 ecr 2845631187], length 1388
+17:49:02.776386 IP run-Z87X-UD3H.47504 > ec2-52-202-9-181.compute-1.amazonaws.com.https: Flags [.], ack 2777, win 274, options [nop,nop,TS val 2845631266 ecr 3931127769], length 0
+17:49:02.776942 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 48464 0/0/0 (28)
+17:49:02.777029 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 2785+ [1au] AAAA? reddit.com. (39)
+17:49:02.777404 IP ec2-52-202-9-181.compute-1.amazonaws.com.https > run-Z87X-UD3H.47504: Flags [P.], seq 2777:3336, ack 518, win 110, options [nop,nop,TS val 3931127769 ecr 2845631187], length 559
+17:49:02.777419 IP run-Z87X-UD3H.47504 > ec2-52-202-9-181.compute-1.amazonaws.com.https: Flags [.], ack 3336, win 296, options [nop,nop,TS val 2845631267 ecr 3931127769], length 0
+17:49:02.777607 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 277496:278884, ack 5797, win 96, options [nop,nop,TS val 2433904588 ecr 1247221269], length 1388
+17:49:02.777798 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 278884:280272, ack 5797, win 96, options [nop,nop,TS val 2433904588 ecr 1247221269], length 1388
+17:49:02.777991 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 280272:281660, ack 5797, win 96, options [nop,nop,TS val 2433904588 ecr 1247221269], length 1388
+17:49:02.778837 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 281660:283048, ack 5797, win 96, options [nop,nop,TS val 2433904588 ecr 1247221269], length 1388
+17:49:02.779025 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 283048:284436, ack 5797, win 96, options [nop,nop,TS val 2433904588 ecr 1247221269], length 1388
+17:49:02.779416 IP run-Z87X-UD3H.47504 > ec2-52-202-9-181.compute-1.amazonaws.com.https: Flags [P.], seq 518:644, ack 3336, win 296, options [nop,nop,TS val 2845631269 ecr 3931127769], length 126
+17:49:02.779557 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 284436, win 3045, options [nop,nop,TS val 1247221301 ecr 2433904588], length 0
+17:49:02.779805 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 284436:285824, ack 5797, win 96, options [nop,nop,TS val 2433904588 ecr 1247221269], length 1388
+17:49:02.780239 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 2785 0/0/0 (28)
+17:49:02.780319 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 4352+ [1au] AAAA? reddit.com. (39)
+17:49:02.781207 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 4352 0/0/0 (28)
+17:49:02.781240 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 53088+ [1au] AAAA? reddit.com. (39)
+17:49:02.782380 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 53088 0/0/0 (28)
+17:49:02.782426 IP6 run-Z87X-UD3H.35111 > 2605:8d80:6a3:1bec::4e.domain: 26033+ [1au] AAAA? reddit.com. (39)
+17:49:02.783781 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 285824:287212, ack 5797, win 96, options [nop,nop,TS val 2433904590 ecr 1247221271], length 1388
+17:49:02.783967 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 287212:288600, ack 5797, win 96, options [nop,nop,TS val 2433904590 ecr 1247221271], length 1388
+17:49:02.784648 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35111: 26033 0/0/0 (28)
+17:49:02.784870 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 288600:289988, ack 5797, win 96, options [nop,nop,TS val 2433904590 ecr 1247221271], length 1388
+17:49:02.785052 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 289988:291376, ack 5797, win 96, options [nop,nop,TS val 2433904590 ecr 1247221271], length 1388
+17:49:02.785809 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 291376:292764, ack 5797, win 96, options [nop,nop,TS val 2433904590 ecr 1247221271], length 1388
+17:49:02.786007 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 292764:294152, ack 5797, win 96, options [nop,nop,TS val 2433904590 ecr 1247221271], length 1388
+17:49:02.786199 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 294152:295540, ack 5797, win 96, options [nop,nop,TS val 2433904590 ecr 1247221274], length 1388
+17:49:02.786815 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 295540:296928, ack 5797, win 96, options [nop,nop,TS val 2433904590 ecr 1247221274], length 1388
+17:49:02.787006 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 296928:298316, ack 5797, win 96, options [nop,nop,TS val 2433904590 ecr 1247221274], length 1388
+17:49:02.787208 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 298316:299704, ack 5797, win 96, options [nop,nop,TS val 2433904590 ecr 1247221274], length 1388
+17:49:02.787497 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 299704, win 2944, options [nop,nop,TS val 1247221309 ecr 2433904588], length 0
+17:49:02.787696 IP6 run-Z87X-UD3H.35128 > 2605:8d80:6a3:1bec::4e.domain: 28698+ A? ocsp.digicert.com. (35)
+17:49:02.787788 IP6 run-Z87X-UD3H.59556 > 2605:8d80:6a3:1bec::4e.domain: 60768+ AAAA? ocsp.digicert.com. (35)
+17:49:02.788082 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 299704:301092, ack 5797, win 96, options [nop,nop,TS val 2433904590 ecr 1247221275], length 1388
+17:49:02.788272 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 301092:302480, ack 5797, win 96, options [nop,nop,TS val 2433904590 ecr 1247221275], length 1388
+17:49:02.788281 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 302480, win 3030, options [nop,nop,TS val 1247221310 ecr 2433904590], length 0
+17:49:02.788919 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 302480:303868, ack 5797, win 96, options [nop,nop,TS val 2433904590 ecr 1247221275], length 1388
+17:49:02.789106 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 303868:305256, ack 5797, win 96, options [nop,nop,TS val 2433904590 ecr 1247221275], length 1388
+17:49:02.789115 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 305256, win 3039, options [nop,nop,TS val 1247221311 ecr 2433904590], length 0
+17:49:02.789298 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 305256:306644, ack 5797, win 96, options [nop,nop,TS val 2433904590 ecr 1247221276], length 1388
+17:49:02.789839 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 306644:308032, ack 5797, win 96, options [nop,nop,TS val 2433904590 ecr 1247221276], length 1388
+17:49:02.789847 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 308032, win 3039, options [nop,nop,TS val 1247221312 ecr 2433904590], length 0
+17:49:02.790042 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 308032:309420, ack 5797, win 96, options [nop,nop,TS val 2433904590 ecr 1247221278], length 1388
+17:49:02.790135 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.35128: 28698 2/0/0 CNAME cs9.wac.phicdn.net., A 72.21.91.29 (83)
+17:49:02.790813 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 309420:310808, ack 5797, win 96, options [nop,nop,TS val 2433904590 ecr 1247221278], length 1388
+17:49:02.790823 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 310808, win 3039, options [nop,nop,TS val 1247221313 ecr 2433904590], length 0
+17:49:02.791004 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 310808:312196, ack 5797, win 96, options [nop,nop,TS val 2433904590 ecr 1247221278], length 1388
+17:49:02.791198 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 312196:313584, ack 5797, win 96, options [nop,nop,TS val 2433904590 ecr 1247221278], length 1388
+17:49:02.791204 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 313584, win 3039, options [nop,nop,TS val 1247221313 ecr 2433904590], length 0
+17:49:02.791600 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.59556: 60768 1/0/0 CNAME cs9.wac.phicdn.net. (67)
+17:49:02.791753 IP6 run-Z87X-UD3H.50344 > 2605:8d80:6a3:1bec::4e.domain: 15150+ AAAA? cs9.wac.phicdn.net. (36)
+17:49:02.792276 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 313584:314972, ack 5797, win 96, options [nop,nop,TS val 2433904591 ecr 1247221281], length 1388
+17:49:02.792467 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 314972:316360, ack 5797, win 96, options [nop,nop,TS val 2433904591 ecr 1247221281], length 1388
+17:49:02.792476 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 316360, win 3039, options [nop,nop,TS val 1247221314 ecr 2433904591], length 0
+17:49:02.792925 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 316360:317748, ack 5797, win 96, options [nop,nop,TS val 2433904591 ecr 1247221281], length 1388
+17:49:02.793117 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 317748:319136, ack 5797, win 96, options [nop,nop,TS val 2433904591 ecr 1247221281], length 1388
+17:49:02.793124 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 319136, win 3039, options [nop,nop,TS val 1247221315 ecr 2433904591], length 0
+17:49:02.793784 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 319136:320524, ack 5797, win 96, options [nop,nop,TS val 2433904591 ecr 1247221281], length 1388
+17:49:02.794213 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.50344: 15150 0/0/0 (36)
+17:49:02.794391 IP run-Z87X-UD3H.53444 > 72.21.91.29.http: Flags [S], seq 3698287639, win 29200, options [mss 1460,sackOK,TS val 2641956324 ecr 0,nop,wscale 7], length 0
+17:49:02.796827 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 320524:321912, ack 5797, win 96, options [nop,nop,TS val 2433904591 ecr 1247221281], length 1388
+17:49:02.796843 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 321912, win 3039, options [nop,nop,TS val 1247221319 ecr 2433904591], length 0
+17:49:02.796996 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 321912:323300, ack 5797, win 96, options [nop,nop,TS val 2433904591 ecr 1247221284], length 1388
+17:49:02.797189 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 323300:324688, ack 5797, win 96, options [nop,nop,TS val 2433904591 ecr 1247221284], length 1388
+17:49:02.797194 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 324688, win 3039, options [nop,nop,TS val 1247221319 ecr 2433904591], length 0
+17:49:02.805748 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 324688:326076, ack 5797, win 96, options [nop,nop,TS val 2433904595 ecr 1247221293], length 1388
+17:49:02.805928 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 326076:327464, ack 5797, win 96, options [nop,nop,TS val 2433904595 ecr 1247221293], length 1388
+17:49:02.806045 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 327464, win 3030, options [nop,nop,TS val 1247221328 ecr 2433904595], length 0
+17:49:02.806206 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 327464:328852, ack 5797, win 96, options [nop,nop,TS val 2433904595 ecr 1247221293], length 1388
+17:49:02.806398 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 328852:330240, ack 5797, win 96, options [nop,nop,TS val 2433904595 ecr 1247221293], length 1388
+17:49:02.806405 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 330240, win 3039, options [nop,nop,TS val 1247221328 ecr 2433904595], length 0
+17:49:02.812815 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 330240:331628, ack 5797, win 96, options [nop,nop,TS val 2433904595 ecr 1247221293], length 1388
+17:49:02.813006 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 331628:333016, ack 5797, win 96, options [nop,nop,TS val 2433904595 ecr 1247221293], length 1388
+17:49:02.813016 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 333016, win 3039, options [nop,nop,TS val 1247221335 ecr 2433904595], length 0
+17:49:02.813480 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 333016:334404, ack 5797, win 96, options [nop,nop,TS val 2433904596 ecr 1247221293], length 1388
+17:49:02.817051 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 334404:335792, ack 5797, win 96, options [nop,nop,TS val 2433904596 ecr 1247221293], length 1388
+17:49:02.817059 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 335792, win 3039, options [nop,nop,TS val 1247221339 ecr 2433904596], length 0
+17:49:02.817241 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 335792:337180, ack 5797, win 96, options [nop,nop,TS val 2433904596 ecr 1247221294], length 1388
+17:49:02.817436 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 337180:338568, ack 5797, win 96, options [nop,nop,TS val 2433904596 ecr 1247221294], length 1388
+17:49:02.817443 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 338568, win 3039, options [nop,nop,TS val 1247221339 ecr 2433904596], length 0
+17:49:02.823895 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 338568:339956, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221294], length 1388
+17:49:02.824985 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 339956:341344, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221294], length 1388
+17:49:02.825000 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 341344, win 3039, options [nop,nop,TS val 1247221347 ecr 2433904598], length 0
+17:49:02.825015 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 341344:342732, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221294], length 1388
+17:49:02.825020 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 342732:344120, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221294], length 1388
+17:49:02.825046 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 344120, win 3020, options [nop,nop,TS val 1247221347 ecr 2433904598], length 0
+17:49:02.825337 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 344120:345508, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221294], length 1388
+17:49:02.825346 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 345508:346896, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221294], length 1388
+17:49:02.825351 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 346896, win 3030, options [nop,nop,TS val 1247221347 ecr 2433904598], length 0
+17:49:02.825359 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 346896:348284, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221294], length 1388
+17:49:02.825615 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 348284:349672, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221296], length 1388
+17:49:02.825624 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 349672:351060, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221296], length 1388
+17:49:02.825809 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 351060:352448, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221296], length 1388
+17:49:02.825997 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 352448:353836, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221296], length 1388
+17:49:02.828571 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 353836, win 3045, options [nop,nop,TS val 1247221350 ecr 2433904598], length 0
+17:49:02.829028 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 353836:355224, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221296], length 1388
+17:49:02.829041 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 355224:356612, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221296], length 1388
+17:49:02.829048 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 356612:358000, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221296], length 1388
+17:49:02.829052 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 358000:359388, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221296], length 1388
+17:49:02.829074 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 359388, win 3011, options [nop,nop,TS val 1247221351 ecr 2433904598], length 0
+17:49:02.829628 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 359388:360776, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221297], length 1388
+17:49:02.829639 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 360776:362164, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221297], length 1388
+17:49:02.829646 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 362164, win 3030, options [nop,nop,TS val 1247221352 ecr 2433904598], length 0
+17:49:02.829652 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 362164:363552, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221297], length 1388
+17:49:02.829656 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 363552:364940, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221297], length 1388
+17:49:02.829659 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 364940:366328, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221298], length 1388
+17:49:02.829663 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 366328:367716, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221298], length 1388
+17:49:02.830036 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 367716, win 3045, options [nop,nop,TS val 1247221352 ecr 2433904598], length 0
+17:49:02.830065 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 367716:369104, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221301], length 1388
+17:49:02.830070 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 369104:370492, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221301], length 1388
+17:49:02.830074 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 370492:371880, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221301], length 1388
+17:49:02.830078 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 371880:373268, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221301], length 1388
+17:49:02.830107 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 373268, win 3045, options [nop,nop,TS val 1247221352 ecr 2433904598], length 0
+17:49:02.830425 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 373268:374656, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221301], length 1388
+17:49:02.830438 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 374656:376044, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221301], length 1388
+17:49:02.830444 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 376044:377432, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221309], length 1388
+17:49:02.830465 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 377432, win 3020, options [nop,nop,TS val 1247221352 ecr 2433904598], length 0
+17:49:02.830699 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 377432:378820, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221309], length 1388
+17:49:02.830707 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 378820:380208, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221309], length 1388
+17:49:02.830712 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 380208, win 3030, options [nop,nop,TS val 1247221353 ecr 2433904598], length 0
+17:49:02.830891 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 380208:381596, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221309], length 1388
+17:49:02.831168 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 381596:382984, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221309], length 1388
+17:49:02.831175 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 382984, win 3039, options [nop,nop,TS val 1247221353 ecr 2433904598], length 0
+17:49:02.831180 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 382984:384372, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221309], length 1388
+17:49:02.831360 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 384372:385760, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221309], length 1388
+17:49:02.831374 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 385760, win 3039, options [nop,nop,TS val 1247221353 ecr 2433904598], length 0
+17:49:02.831554 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 385760:387148, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221309], length 1388
+17:49:02.832046 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 387148:388536, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221309], length 1388
+17:49:02.832054 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 388536, win 3039, options [nop,nop,TS val 1247221354 ecr 2433904598], length 0
+17:49:02.832239 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 388536:389924, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221309], length 1388
+17:49:02.832430 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 389924:391312, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221309], length 1388
+17:49:02.832435 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 391312, win 3039, options [nop,nop,TS val 1247221354 ecr 2433904598], length 0
+17:49:02.833247 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 391312:392700, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221309], length 1388
+17:49:02.833443 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 392700:394088, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221310], length 1388
+17:49:02.833449 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 394088, win 3039, options [nop,nop,TS val 1247221355 ecr 2433904598], length 0
+17:49:02.833940 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 394088:395476, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221310], length 1388
+17:49:02.834143 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 395476:396864, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221311], length 1388
+17:49:02.834148 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 396864, win 3039, options [nop,nop,TS val 1247221356 ecr 2433904598], length 0
+17:49:02.834335 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 396864:398252, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221311], length 1388
+17:49:02.835119 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 398252:399640, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221312], length 1388
+17:49:02.835123 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 399640, win 3039, options [nop,nop,TS val 1247221357 ecr 2433904598], length 0
+17:49:02.835311 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 399640:401028, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221312], length 1388
+17:49:02.835876 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 401028:402416, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221313], length 1388
+17:49:02.835881 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 402416, win 3039, options [nop,nop,TS val 1247221358 ecr 2433904598], length 0
+17:49:02.836081 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 402416:403804, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221313], length 1388
+17:49:02.836826 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 403804:405192, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221313], length 1388
+17:49:02.836830 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 405192, win 3039, options [nop,nop,TS val 1247221359 ecr 2433904598], length 0
+17:49:02.837030 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 405192:406580, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221313], length 1388
+17:49:02.837218 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 406580:407968, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221314], length 1388
+17:49:02.837222 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 407968, win 3039, options [nop,nop,TS val 1247221359 ecr 2433904598], length 0
+17:49:02.837853 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 407968:409356, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221315], length 1388
+17:49:02.838046 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 409356:410744, ack 5797, win 96, options [nop,nop,TS val 2433904598 ecr 1247221315], length 1388
+17:49:02.838052 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 410744, win 3039, options [nop,nop,TS val 1247221360 ecr 2433904598], length 0
+17:49:02.838238 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 410744:412132, ack 5797, win 96, options [nop,nop,TS val 2433904600 ecr 1247221319], length 1388
+17:49:02.839834 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 412132:413520, ack 5797, win 96, options [nop,nop,TS val 2433904600 ecr 1247221319], length 1388
+17:49:02.839851 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 413520, win 3039, options [nop,nop,TS val 1247221362 ecr 2433904600], length 0
+17:49:02.840019 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 413520:414908, ack 5797, win 96, options [nop,nop,TS val 2433904600 ecr 1247221319], length 1388
+17:49:02.840830 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 414908:416296, ack 5797, win 96, options [nop,nop,TS val 2433904600 ecr 1247221319], length 1388
+17:49:02.840846 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 416296, win 3039, options [nop,nop,TS val 1247221363 ecr 2433904600], length 0
+17:49:02.841018 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 416296:417684, ack 5797, win 96, options [nop,nop,TS val 2433904600 ecr 1247221319], length 1388
+17:49:02.841510 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 417684:419072, ack 5797, win 96, options [nop,nop,TS val 2433904600 ecr 1247221319], length 1388
+17:49:02.841517 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 419072, win 3039, options [nop,nop,TS val 1247221363 ecr 2433904600], length 0
+17:49:02.841958 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 419072:420460, ack 5797, win 96, options [nop,nop,TS val 2433904602 ecr 1247221328], length 1388
+17:49:02.842150 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 420460:421848, ack 5797, win 96, options [nop,nop,TS val 2433904602 ecr 1247221328], length 1388
+17:49:02.842154 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 421848, win 3039, options [nop,nop,TS val 1247221364 ecr 2433904602], length 0
+17:49:02.842346 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 421848:423236, ack 5797, win 96, options [nop,nop,TS val 2433904603 ecr 1247221328], length 1388
+17:49:02.842864 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 423236:424624, ack 5797, win 96, options [nop,nop,TS val 2433904603 ecr 1247221328], length 1388
+17:49:02.842869 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 424624, win 3039, options [nop,nop,TS val 1247221365 ecr 2433904603], length 0
+17:49:02.843061 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 424624:426012, ack 5797, win 96, options [nop,nop,TS val 2433904603 ecr 1247221335], length 1388
+17:49:02.843810 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 426012:427400, ack 5797, win 96, options [nop,nop,TS val 2433904603 ecr 1247221335], length 1388
+17:49:02.843825 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 427400, win 3039, options [nop,nop,TS val 1247221366 ecr 2433904603], length 0
+17:49:02.843908 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 427400:427546, ack 5797, win 96, options [nop,nop,TS val 2433904605 ecr 1247221339], length 146
+17:49:02.850378 IP 72.21.91.29.http > run-Z87X-UD3H.53444: Flags [S.], seq 2060930881, ack 3698287640, win 65535, options [mss 1392,sackOK,TS val 1286193658 ecr 2641956324,nop,wscale 9], length 0
+17:49:02.850406 IP run-Z87X-UD3H.53444 > 72.21.91.29.http: Flags [.], ack 1, win 229, options [nop,nop,TS val 2641956380 ecr 1286193658], length 0
+17:49:02.850503 IP run-Z87X-UD3H.53444 > 72.21.91.29.http: Flags [P.], seq 1:452, ack 1, win 229, options [nop,nop,TS val 2641956380 ecr 1286193658], length 451: HTTP: POST / HTTP/1.1
+17:49:02.850961 IP ec2-52-202-9-181.compute-1.amazonaws.com.https > run-Z87X-UD3H.47504: Flags [P.], seq 3336:3387, ack 644, win 110, options [nop,nop,TS val 3931127790 ecr 2845631269], length 51
+17:49:02.862031 IP6 run-Z87X-UD3H.44041 > 2605:8d80:6a3:1bec::4e.domain: 45591+ A? ssl.google-analytics.com. (42)
+17:49:02.862095 IP6 run-Z87X-UD3H.45634 > 2605:8d80:6a3:1bec::4e.domain: 45880+ AAAA? ssl.google-analytics.com. (42)
+17:49:02.872296 IP6 run-Z87X-UD3H.40364 > 2605:8d80:6a3:1bec::4e.domain: 38358+ A? www.google-analytics.com. (42)
+17:49:02.872360 IP6 run-Z87X-UD3H.33036 > 2605:8d80:6a3:1bec::4e.domain: 8280+ AAAA? www.google-analytics.com. (42)
+17:49:02.873416 IP6 run-Z87X-UD3H.43362 > 2605:8d80:6a3:1bec::4e.domain: 47620+ A? www.redditmedia.com. (37)
+17:49:02.874084 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 5797:5901, ack 427546, win 3045, options [nop,nop,TS val 1247221396 ecr 2433904605], length 104
+17:49:02.874233 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 5901:6031, ack 427546, win 3045, options [nop,nop,TS val 1247221396 ecr 2433904605], length 130
+17:49:02.874625 IP6 run-Z87X-UD3H.46316 > 2605:8d80:6a3:1bec::4e.domain: 4034+ AAAA? www.redditmedia.com. (37)
+17:49:02.893286 IP run-Z87X-UD3H.47504 > ec2-52-202-9-181.compute-1.amazonaws.com.https: Flags [.], ack 3387, win 296, options [nop,nop,TS val 2845631383 ecr 3931127790], length 0
+17:49:02.898902 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 6031:6162, ack 427546, win 3045, options [nop,nop,TS val 1247221421 ecr 2433904605], length 131
+17:49:02.899323 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 6162:6204, ack 427546, win 3045, options [nop,nop,TS val 1247221421 ecr 2433904605], length 42
+17:49:02.900738 IP 72.21.91.29.http > run-Z87X-UD3H.53444: Flags [.], ack 452, win 285, options [nop,nop,TS val 1286193709 ecr 2641956380], length 0
+17:49:02.900900 IP 72.21.91.29.http > run-Z87X-UD3H.53444: Flags [P.], seq 1:789, ack 452, win 285, options [nop,nop,TS val 1286193710 ecr 2641956380], length 788: HTTP: HTTP/1.1 200 OK
+17:49:02.900909 IP run-Z87X-UD3H.53444 > 72.21.91.29.http: Flags [.], ack 789, win 241, options [nop,nop,TS val 2641956431 ecr 1286193710], length 0
+17:49:02.925605 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.44041: 45591 2/0/0 CNAME ssl-google-analytics.l.google.com., A 172.217.0.104 (102)
+17:49:02.926114 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.45634: 45880 2/0/0 CNAME ssl-google-analytics.l.google.com., AAAA 2607:f8b0:400b:80c::2008 (114)
+17:49:02.926121 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 0
+17:49:02.926135 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 427546:427784, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 238
+17:49:02.926141 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 427784:429172, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.926145 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.46316: 4034 1/1/0 CNAME reddit.map.fastly.net. (130)
+17:49:02.926149 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.40364: 38358 2/0/0 CNAME www-google-analytics.l.google.com., A 172.217.1.14 (102)
+17:49:02.926152 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.33036: 8280 2/0/0 CNAME www-google-analytics.l.google.com., AAAA 2607:f8b0:400b:80f::200e (114)
+17:49:02.926156 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 429172:430560, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.926160 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 430560:431948, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.926164 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 431948:433336, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.926209 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 433336, win 3011, options [nop,nop,TS val 1247221448 ecr 2433904623], length 0
+17:49:02.926289 IP6 run-Z87X-UD3H.39192 > 2605:8d80:6a3:1bec::4e.domain: 52752+ AAAA? reddit.map.fastly.net. (39)
+17:49:02.926647 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 433336:434724, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.926657 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 434724:436112, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.926662 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 436112, win 3030, options [nop,nop,TS val 1247221449 ecr 2433904623], length 0
+17:49:02.926668 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 436112:437500, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.926672 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 437500:438888, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.926674 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 438888, win 3039, options [nop,nop,TS val 1247221449 ecr 2433904623], length 0
+17:49:02.926677 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 438888:440276, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.926681 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.43362: 47620 2/4/0 CNAME reddit.map.fastly.net., A 151.101.125.140 (160)
+17:49:02.926992 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 440276:441664, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.926999 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 441664, win 3039, options [nop,nop,TS val 1247221449 ecr 2433904623], length 0
+17:49:02.927005 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 441664:443052, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.927009 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 443052:444197, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1145
+17:49:02.927024 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 444197, win 3045, options [nop,nop,TS val 1247221449 ecr 2433904623], length 0
+17:49:02.927274 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 444197:445585, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.927282 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 445585:446973, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.927300 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 446973, win 3030, options [nop,nop,TS val 1247221449 ecr 2433904623], length 0
+17:49:02.927462 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 446973:448361, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.927655 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 448361:449749, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.927662 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 449749, win 3039, options [nop,nop,TS val 1247221450 ecr 2433904623], length 0
+17:49:02.927848 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 449749:451137, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.928041 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 451137:452525, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.928047 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 452525, win 3039, options [nop,nop,TS val 1247221450 ecr 2433904623], length 0
+17:49:02.930271 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 452525:453913, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.930444 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 453913:455301, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.930455 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 455301, win 3039, options [nop,nop,TS val 1247221452 ecr 2433904623], length 0
+17:49:02.930637 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 455301:456689, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.931272 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.39192: 52752 0/0/0 (39)
+17:49:02.931479 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 456689:458077, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.931487 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 458077, win 3039, options [nop,nop,TS val 1247221453 ecr 2433904623], length 0
+17:49:02.931675 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 458077:459465, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.932195 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 459465:460610, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1145
+17:49:02.932200 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 460610, win 3039, options [nop,nop,TS val 1247221454 ecr 2433904623], length 0
+17:49:02.932669 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 460610:461998, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.932862 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 461998:463386, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.932867 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 463386, win 3039, options [nop,nop,TS val 1247221455 ecr 2433904623], length 0
+17:49:02.933751 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 463386:464774, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.934793 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 464774:466162, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.934800 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 466162, win 3039, options [nop,nop,TS val 1247221457 ecr 2433904623], length 0
+17:49:02.934993 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 466162:467550, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.935755 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 467550:468938, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.935761 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 468938, win 3039, options [nop,nop,TS val 1247221458 ecr 2433904623], length 0
+17:49:02.936626 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 468938:470326, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.938501 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 470326:471714, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.938517 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 471714, win 3039, options [nop,nop,TS val 1247221460 ecr 2433904623], length 0
+17:49:02.938686 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 471714:473102, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.938878 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 473102:474490, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.938884 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 474490, win 3039, options [nop,nop,TS val 1247221461 ecr 2433904623], length 0
+17:49:02.939766 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 474490:475878, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.939939 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 475878:477023, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1145
+17:49:02.939946 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 477023, win 3039, options [nop,nop,TS val 1247221462 ecr 2433904623], length 0
+17:49:02.940704 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 477023:478411, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.941789 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 478411:479799, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.941798 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 479799, win 3039, options [nop,nop,TS val 1247221464 ecr 2433904623], length 0
+17:49:02.942759 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 479799:481187, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.942949 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 481187:482575, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.942957 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 482575, win 3039, options [nop,nop,TS val 1247221465 ecr 2433904623], length 0
+17:49:02.943698 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 482575:483963, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.951898 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 483963:485351, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 1388
+17:49:02.951922 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 485351, win 3039, options [nop,nop,TS val 1247221474 ecr 2433904623], length 0
+17:49:02.951942 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 485351:485967, ack 6031, win 101, options [nop,nop,TS val 2433904623 ecr 1247221396], length 616
+17:49:02.952084 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 485967:487355, ack 6162, win 107, options [nop,nop,TS val 2433904627 ecr 1247221421], length 1388
+17:49:02.952099 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 487355, win 3039, options [nop,nop,TS val 1247221474 ecr 2433904623], length 0
+17:49:02.952277 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 487355:488743, ack 6162, win 107, options [nop,nop,TS val 2433904627 ecr 1247221421], length 1388
+17:49:02.960837 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 488743:490131, ack 6162, win 107, options [nop,nop,TS val 2433904627 ecr 1247221421], length 1388
+17:49:02.960860 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 490131, win 3039, options [nop,nop,TS val 1247221483 ecr 2433904627], length 0
+17:49:02.961018 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 490131:491519, ack 6162, win 107, options [nop,nop,TS val 2433904627 ecr 1247221421], length 1388
+17:49:02.961128 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 491519:491718, ack 6162, win 107, options [nop,nop,TS val 2433904627 ecr 1247221421], length 199
+17:49:02.961135 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 491718, win 3039, options [nop,nop,TS val 1247221483 ecr 2433904627], length 0
+17:49:02.994758 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], ack 6204, win 107, options [nop,nop,TS val 2433904637 ecr 1247221421], length 0
+17:49:02.995728 IP6 run-Z87X-UD3H.48942 > 2605:8d80:6a3:1bec::4e.domain: 59576+ A? www.reddit.com. (32)
+17:49:02.995795 IP6 run-Z87X-UD3H.34541 > 2605:8d80:6a3:1bec::4e.domain: 62167+ AAAA? www.reddit.com. (32)
+17:49:02.996220 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 6204:6384, ack 491718, win 3045, options [nop,nop,TS val 1247221518 ecr 2433904637], length 180
+17:49:03.001495 IP6 run-Z87X-UD3H.57012 > 2605:8d80:6a3:1bec::4e.domain: 21580+ A? www.googletagservices.com. (43)
+17:49:03.001560 IP6 run-Z87X-UD3H.32989 > 2605:8d80:6a3:1bec::4e.domain: 17866+ AAAA? www.googletagservices.com. (43)
+17:49:03.002364 IP6 run-Z87X-UD3H.49144 > 2605:8d80:6a3:1bec::4e.domain: 10205+ A? c.aaxads.com. (30)
+17:49:03.002420 IP6 run-Z87X-UD3H.36794 > 2605:8d80:6a3:1bec::4e.domain: 3750+ AAAA? c.aaxads.com. (30)
+17:49:03.002599 IP6 run-Z87X-UD3H.58358 > 2605:8d80:6a3:1bec::4e.domain: 21091+ A? c.amazon-adsystem.com. (39)
+17:49:03.002646 IP6 run-Z87X-UD3H.40767 > 2605:8d80:6a3:1bec::4e.domain: 21285+ AAAA? c.amazon-adsystem.com. (39)
+17:49:03.002995 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 6384:6461, ack 491718, win 3045, options [nop,nop,TS val 1247221525 ecr 2433904637], length 77
+17:49:03.017478 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 6461:6548, ack 491718, win 3045, options [nop,nop,TS val 1247221539 ecr 2433904637], length 87
+17:49:03.036142 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 6548:6622, ack 491718, win 3045, options [nop,nop,TS val 1247221558 ecr 2433904637], length 74
+17:49:03.036298 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 6622:6664, ack 491718, win 3045, options [nop,nop,TS val 1247221558 ecr 2433904637], length 42
+17:49:03.036723 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], ack 6461, win 112, options [nop,nop,TS val 2433904654 ecr 1247221518], length 0
+17:49:03.036851 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 491718:492031, ack 6461, win 112, options [nop,nop,TS val 2433904654 ecr 1247221518], length 313
+17:49:03.064989 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 6664:6759, ack 492031, win 3045, options [nop,nop,TS val 1247221587 ecr 2433904654], length 95
+17:49:03.085545 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 492031:493419, ack 6461, win 112, options [nop,nop,TS val 2433904654 ecr 1247221518], length 1388
+17:49:03.085564 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 493419:494807, ack 6461, win 112, options [nop,nop,TS val 2433904654 ecr 1247221518], length 1388
+17:49:03.085570 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 494807:494819, ack 6461, win 112, options [nop,nop,TS val 2433904654 ecr 1247221518], length 12
+17:49:03.085574 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], seq 494819:496207, ack 6461, win 112, options [nop,nop,TS val 2433904654 ecr 1247221518], length 1388
+17:49:03.085577 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 496207:496994, ack 6461, win 112, options [nop,nop,TS val 2433904654 ecr 1247221518], length 787
+17:49:03.085581 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 496994:497074, ack 6548, win 112, options [nop,nop,TS val 2433904657 ecr 1247221539], length 80
+17:49:03.085586 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 497074:497112, ack 6548, win 112, options [nop,nop,TS val 2433904657 ecr 1247221539], length 38
+17:49:03.085590 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.34541: 62167 1/1/0 CNAME reddit.map.fastly.net. (125)
+17:49:03.085635 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 497112, win 3006, options [nop,nop,TS val 1247221608 ecr 2433904654], length 0
+17:49:03.085738 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.57012: 21580 2/0/0 CNAME pagead46.l.doubleclick.net., A 172.217.2.162 (99)
+17:49:03.085744 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 497112:498285, ack 6622, win 112, options [nop,nop,TS val 2433904658 ecr 1247221558], length 1173
+17:49:03.085750 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.32989: 17866 2/0/0 CNAME pagead46.l.doubleclick.net., AAAA 2607:f8b0:400b:80d::2002 (111)
+17:49:03.085755 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.48942: 59576 2/4/0 CNAME reddit.map.fastly.net., A 151.101.125.140 (155)
+17:49:03.085856 IP6 run-Z87X-UD3H.53231 > 2605:8d80:6a3:1bec::4e.domain: 22171+ AAAA? reddit.map.fastly.net. (39)
+17:49:03.086311 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.49144: 10205 3/0/0 CNAME wildcard.aaxads.com.edgekey.net., CNAME e12767.d.akamaiedge.net., A 23.216.79.88 (125)
+17:49:03.086319 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.36794: 3750 2/1/0 CNAME wildcard.aaxads.com.edgekey.net., CNAME e12767.d.akamaiedge.net. (167)
+17:49:03.086437 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.58358: 21091 2/4/0 CNAME d1ykf07e75w7ss.cloudfront.net., A 52.84.92.67 (231)
+17:49:03.086506 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 6759:6954, ack 498285, win 3045, options [nop,nop,TS val 1247221608 ecr 2433904658], length 195
+17:49:03.086560 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.40767: 21285 1/1/0 CNAME d1ykf07e75w7ss.cloudfront.net. (160)
+17:49:03.086572 IP6 run-Z87X-UD3H.56605 > 2605:8d80:6a3:1bec::4e.domain: 2630+ AAAA? e12767.d.akamaiedge.net. (41)
+17:49:03.086612 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], seq 6954:8334, ack 498285, win 3045, options [nop,nop,TS val 1247221609 ecr 2433904658], length 1380
+17:49:03.086730 IP6 run-Z87X-UD3H.38679 > 2605:8d80:6a3:1bec::4e.domain: 45622+ AAAA? d1ykf07e75w7ss.cloudfront.net. (47)
+17:49:03.087340 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 8334:8883, ack 498285, win 3045, options [nop,nop,TS val 1247221609 ecr 2433904658], length 549
+17:49:03.088363 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.53231: 22171 0/0/0 (39)
+17:49:03.089457 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.56605: 2630 0/0/0 (41)
+17:49:03.089709 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.38679: 45622 0/0/0 (47)
+17:49:03.089710 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [S], seq 3483650397, win 29200, options [mss 1460,sackOK,TS val 3934685719 ecr 0,nop,wscale 7], length 0
+17:49:03.092912 IP6 run-Z87X-UD3H.43683 > 2605:8d80:6a3:1bec::4e.domain: 37763+ A? alb.reddit.com. (32)
+17:49:03.092994 IP6 run-Z87X-UD3H.53854 > 2605:8d80:6a3:1bec::4e.domain: 62448+ AAAA? alb.reddit.com. (32)
+17:49:03.113746 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], ack 6664, win 112, options [nop,nop,TS val 2433904673 ecr 1247221558], length 0
+17:49:03.126793 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], ack 6759, win 112, options [nop,nop,TS val 2433904676 ecr 1247221558], length 0
+17:49:03.126816 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], ack 6954, win 117, options [nop,nop,TS val 2433904676 ecr 1247221608], length 0
+17:49:03.126886 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], ack 8883, win 125, options [nop,nop,TS val 2433904676 ecr 1247221609], length 0
+17:49:03.127332 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 498285:498340, ack 8883, win 125, options [nop,nop,TS val 2433904676 ecr 1247221609], length 55
+17:49:03.127473 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 498340:499163, ack 8883, win 125, options [nop,nop,TS val 2433904676 ecr 1247221609], length 823
+17:49:03.127504 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 499163, win 3045, options [nop,nop,TS val 1247221649 ecr 2433904676], length 0
+17:49:03.127882 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.43683: 37763 3/4/0 A 35.175.81.155, A 54.84.177.104, A 34.231.31.77 (217)
+17:49:03.128254 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.53854: 62448 0/1/0 (113)
+17:49:03.128731 IP run-Z87X-UD3H.46540 > ec2-54-84-177-104.compute-1.amazonaws.com.https: Flags [S], seq 1057924027, win 29200, options [mss 1460,sackOK,TS val 4243625285 ecr 0,nop,wscale 7], length 0
+17:49:03.134816 IP6 run-Z87X-UD3H.49664 > 2605:8d80:6a3:1bec::4e.domain: 7517+ A? www.googletagmanager.com. (42)
+17:49:03.134904 IP6 run-Z87X-UD3H.33130 > 2605:8d80:6a3:1bec::4e.domain: 18926+ AAAA? www.googletagmanager.com. (42)
+17:49:03.143438 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [S.], seq 82246440, ack 3483650398, win 28960, options [mss 1392,sackOK,TS val 1037682422 ecr 3934685719,nop,wscale 7], length 0
+17:49:03.143468 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 1, win 229, options [nop,nop,TS val 3934685772 ecr 1037682422], length 0
+17:49:03.144264 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 1:518, ack 1, win 229, options [nop,nop,TS val 3934685773 ecr 1037682422], length 517
+17:49:03.175222 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 499163:499461, ack 8883, win 125, options [nop,nop,TS val 2433904685 ecr 1247221649], length 298
+17:49:03.175323 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.49664: 7517 2/0/0 CNAME www-googletagmanager.l.google.com., A 172.217.2.104 (102)
+17:49:03.179816 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 499461:499574, ack 8883, win 125, options [nop,nop,TS val 2433904689 ecr 1247221649], length 113
+17:49:03.179888 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 499574, win 3045, options [nop,nop,TS val 1247221702 ecr 2433904685], length 0
+17:49:03.181684 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.33130: 18926 2/0/0 CNAME www-googletagmanager.l.google.com., AAAA 2607:f8b0:400b:80c::2008 (114)
+17:49:03.182351 IP6 run-Z87X-UD3H.41910 > yyz10s05-in-x08.1e100.net.https: Flags [S], seq 3467064728, win 28000, options [mss 1400,sackOK,TS val 3137381446 ecr 0,nop,wscale 7], length 0
+17:49:03.186790 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 8883:9032, ack 499574, win 3045, options [nop,nop,TS val 1247221709 ecr 2433904685], length 149
+17:49:03.186959 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [P.], seq 9032:9871, ack 499574, win 3045, options [nop,nop,TS val 1247221709 ecr 2433904685], length 839
+17:49:03.187006 IP6 run-Z87X-UD3H.50758 > 2605:8d80:6a3:1bec::4e.domain: 63513+ AAAA? reddit.map.fastly.net. (39)
+17:49:03.189329 IP6 2605:8d80:6a3:1bec::4e.domain > run-Z87X-UD3H.50758: 63513 0/0/0 (39)
+17:49:03.191758 IP ec2-54-84-177-104.compute-1.amazonaws.com.https > run-Z87X-UD3H.46540: Flags [S.], seq 3483972169, ack 1057924028, win 26847, options [mss 1392,sackOK,TS val 3307222423 ecr 4243625285,nop,wscale 8], length 0
+17:49:03.191782 IP run-Z87X-UD3H.46540 > ec2-54-84-177-104.compute-1.amazonaws.com.https: Flags [.], ack 1, win 229, options [nop,nop,TS val 4243625348 ecr 3307222423], length 0
+17:49:03.192810 IP run-Z87X-UD3H.46540 > ec2-54-84-177-104.compute-1.amazonaws.com.https: Flags [P.], seq 1:518, ack 1, win 229, options [nop,nop,TS val 4243625349 ecr 3307222423], length 517
+17:49:03.208812 IP6 yyz10s05-in-x08.1e100.net.https > run-Z87X-UD3H.41910: Flags [S.], seq 2658915785, ack 3467064729, win 26960, options [mss 1360,sackOK,TS val 987714229 ecr 3137381446,nop,wscale 8], length 0
+17:49:03.208853 IP6 run-Z87X-UD3H.41910 > yyz10s05-in-x08.1e100.net.https: Flags [.], ack 1, win 219, options [nop,nop,TS val 3137381473 ecr 987714229], length 0
+17:49:03.210524 IP6 run-Z87X-UD3H.41910 > yyz10s05-in-x08.1e100.net.https: Flags [P.], seq 1:518, ack 1, win 219, options [nop,nop,TS val 3137381474 ecr 987714229], length 517
+17:49:03.214964 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [.], ack 9871, win 136, options [nop,nop,TS val 2433904698 ecr 1247221709], length 0
+17:49:03.215081 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 499574:499616, ack 9871, win 136, options [nop,nop,TS val 2433904698 ecr 1247221709], length 42
+17:49:03.221977 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], ack 518, win 235, options [nop,nop,TS val 1037682502 ecr 3934685773], length 0
+17:49:03.222471 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 1:1389, ack 518, win 235, options [nop,nop,TS val 1037682502 ecr 3934685773], length 1388
+17:49:03.222488 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 1389, win 251, options [nop,nop,TS val 3934685851 ecr 1037682502], length 0
+17:49:03.223059 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [P.], seq 1389:2734, ack 518, win 235, options [nop,nop,TS val 1037682502 ecr 3934685773], length 1345
+17:49:03.223073 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 2734, win 274, options [nop,nop,TS val 3934685852 ecr 1037682502], length 0
+17:49:03.229238 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 518:644, ack 2734, win 274, options [nop,nop,TS val 3934685858 ecr 1037682502], length 126
+17:49:03.234756 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 644:1041, ack 2734, win 274, options [nop,nop,TS val 3934685864 ecr 1037682502], length 397
+17:49:03.265166 IP6 yyz10s05-in-x08.1e100.net.https > run-Z87X-UD3H.41910: Flags [.], ack 518, win 110, options [nop,nop,TS val 987714270 ecr 3137381474], length 0
+17:49:03.265183 IP 151.101.125.140.https > run-Z87X-UD3H.55122: Flags [P.], seq 499616:499708, ack 9871, win 136, options [nop,nop,TS val 2433904707 ecr 1247221709], length 92
+17:49:03.265202 IP run-Z87X-UD3H.55122 > 151.101.125.140.https: Flags [.], ack 499708, win 3044, options [nop,nop,TS val 1247221787 ecr 2433904698], length 0
+17:49:03.265218 IP ec2-54-84-177-104.compute-1.amazonaws.com.https > run-Z87X-UD3H.46540: Flags [.], ack 518, win 106, options [nop,nop,TS val 3307222445 ecr 4243625349], length 0
+17:49:03.265225 IP ec2-54-84-177-104.compute-1.amazonaws.com.https > run-Z87X-UD3H.46540: Flags [.], seq 1:1289, ack 518, win 106, options [nop,nop,TS val 3307222445 ecr 4243625349], length 1288
+17:49:03.265230 IP run-Z87X-UD3H.46540 > ec2-54-84-177-104.compute-1.amazonaws.com.https: Flags [.], ack 1289, win 249, options [nop,nop,TS val 4243625421 ecr 3307222445], length 0
+17:49:03.265403 IP ec2-54-84-177-104.compute-1.amazonaws.com.https > run-Z87X-UD3H.46540: Flags [.], seq 1289:2577, ack 518, win 106, options [nop,nop,TS val 3307222445 ecr 4243625349], length 1288
+17:49:03.265415 IP run-Z87X-UD3H.46540 > ec2-54-84-177-104.compute-1.amazonaws.com.https: Flags [.], ack 2577, win 269, options [nop,nop,TS val 4243625421 ecr 3307222445], length 0
+17:49:03.265423 IP ec2-54-84-177-104.compute-1.amazonaws.com.https > run-Z87X-UD3H.46540: Flags [.], seq 2577:3865, ack 518, win 106, options [nop,nop,TS val 3307222445 ecr 4243625349], length 1288
+17:49:03.265427 IP run-Z87X-UD3H.46540 > ec2-54-84-177-104.compute-1.amazonaws.com.https: Flags [.], ack 3865, win 289, options [nop,nop,TS val 4243625421 ecr 3307222445], length 0
+17:49:03.266224 IP ec2-54-84-177-104.compute-1.amazonaws.com.https > run-Z87X-UD3H.46540: Flags [P.], seq 3865:4097, ack 518, win 106, options [nop,nop,TS val 3307222445 ecr 4243625349], length 232
+17:49:03.266236 IP run-Z87X-UD3H.46540 > ec2-54-84-177-104.compute-1.amazonaws.com.https: Flags [.], ack 4097, win 309, options [nop,nop,TS val 4243625422 ecr 3307222445], length 0
+17:49:03.266415 IP ec2-54-84-177-104.compute-1.amazonaws.com.https > run-Z87X-UD3H.46540: Flags [P.], seq 4097:5272, ack 518, win 106, options [nop,nop,TS val 3307222445 ecr 4243625349], length 1175
+17:49:03.266427 IP run-Z87X-UD3H.46540 > ec2-54-84-177-104.compute-1.amazonaws.com.https: Flags [.], ack 5272, win 329, options [nop,nop,TS val 4243625422 ecr 3307222445], length 0
+17:49:03.271010 IP run-Z87X-UD3H.46540 > ec2-54-84-177-104.compute-1.amazonaws.com.https: Flags [P.], seq 518:644, ack 5272, win 329, options [nop,nop,TS val 4243625427 ecr 3307222445], length 126
+17:49:03.271120 IP run-Z87X-UD3H.46540 > ec2-54-84-177-104.compute-1.amazonaws.com.https: Flags [.], seq 644:2024, ack 5272, win 329, options [nop,nop,TS val 4243625427 ecr 3307222445], length 1380
+17:49:03.271172 IP run-Z87X-UD3H.46540 > ec2-54-84-177-104.compute-1.amazonaws.com.https: Flags [P.], seq 2024:2264, ack 5272, win 329, options [nop,nop,TS val 4243625427 ecr 3307222445], length 240
+17:49:03.275143 IP6 yyz10s05-in-x08.1e100.net.https > run-Z87X-UD3H.41910: Flags [.], seq 1:1209, ack 518, win 110, options [nop,nop,TS val 987714295 ecr 3137381474], length 1208
+17:49:03.275164 IP6 run-Z87X-UD3H.41910 > yyz10s05-in-x08.1e100.net.https: Flags [.], ack 1209, win 238, options [nop,nop,TS val 3137381539 ecr 987714295], length 0
+17:49:03.284073 IP6 yyz10s05-in-x08.1e100.net.https > run-Z87X-UD3H.41910: Flags [.], seq 1209:2417, ack 518, win 110, options [nop,nop,TS val 987714295 ecr 3137381474], length 1208
+17:49:03.284079 IP6 run-Z87X-UD3H.41910 > yyz10s05-in-x08.1e100.net.https: Flags [.], ack 2417, win 257, options [nop,nop,TS val 3137381548 ecr 987714295], length 0
+17:49:03.284205 IP6 yyz10s05-in-x08.1e100.net.https > run-Z87X-UD3H.41910: Flags [P.], seq 2417:2882, ack 518, win 110, options [nop,nop,TS val 987714295 ecr 3137381474], length 465
+17:49:03.284211 IP6 run-Z87X-UD3H.41910 > yyz10s05-in-x08.1e100.net.https: Flags [.], ack 2882, win 276, options [nop,nop,TS val 3137381548 ecr 987714295], length 0
+17:49:03.284301 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [P.], seq 2734:2976, ack 644, win 235, options [nop,nop,TS val 1037682562 ecr 3934685858], length 242
+17:49:03.284953 IP6 run-Z87X-UD3H.41910 > yyz10s05-in-x08.1e100.net.https: Flags [P.], seq 518:611, ack 2882, win 276, options [nop,nop,TS val 3137381549 ecr 987714295], length 93
+17:49:03.285229 IP6 run-Z87X-UD3H.41910 > yyz10s05-in-x08.1e100.net.https: Flags [P.], seq 611:788, ack 2882, win 276, options [nop,nop,TS val 3137381549 ecr 987714295], length 177
+17:49:03.285380 IP6 run-Z87X-UD3H.41910 > yyz10s05-in-x08.1e100.net.https: Flags [P.], seq 788:1013, ack 2882, win 276, options [nop,nop,TS val 3137381549 ecr 987714295], length 225
+17:49:03.325272 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 2976, win 296, options [nop,nop,TS val 3934685954 ecr 1037682562], length 0
+17:49:03.355695 IP ec2-54-84-177-104.compute-1.amazonaws.com.https > run-Z87X-UD3H.46540: Flags [.], ack 2264, win 119, options [nop,nop,TS val 3307222462 ecr 4243625427], length 0
+17:49:03.355730 IP ec2-54-84-177-104.compute-1.amazonaws.com.https > run-Z87X-UD3H.46540: Flags [P.], seq 5272:5323, ack 2264, win 119, options [nop,nop,TS val 3307222462 ecr 4243625427], length 51
+17:49:03.355748 IP ec2-54-84-177-104.compute-1.amazonaws.com.https > run-Z87X-UD3H.46540: Flags [P.], seq 5323:5660, ack 2264, win 119, options [nop,nop,TS val 3307222463 ecr 4243625427], length 337
+17:49:03.355759 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 2976:4364, ack 1041, win 243, options [nop,nop,TS val 1037682615 ecr 3934685864], length 1388
+17:49:03.355779 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 4364, win 318, options [nop,nop,TS val 3934685985 ecr 1037682615], length 0
+17:49:03.355800 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 4364:5752, ack 1041, win 243, options [nop,nop,TS val 1037682615 ecr 3934685864], length 1388
+17:49:03.355811 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 5752, win 341, options [nop,nop,TS val 3934685985 ecr 1037682615], length 0
+17:49:03.355821 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 5752:7140, ack 1041, win 243, options [nop,nop,TS val 1037682615 ecr 3934685864], length 1388
+17:49:03.355830 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 7140:8528, ack 1041, win 243, options [nop,nop,TS val 1037682615 ecr 3934685864], length 1388
+17:49:03.355839 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 8528:9916, ack 1041, win 243, options [nop,nop,TS val 1037682615 ecr 3934685864], length 1388
+17:49:03.355846 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 7140, win 363, options [nop,nop,TS val 3934685985 ecr 1037682615], length 0
+17:49:03.355849 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 9916:11304, ack 1041, win 243, options [nop,nop,TS val 1037682615 ecr 3934685864], length 1388
+17:49:03.355861 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 11304:12692, ack 1041, win 243, options [nop,nop,TS val 1037682615 ecr 3934685864], length 1388
+17:49:03.355863 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 8528, win 386, options [nop,nop,TS val 3934685985 ecr 1037682615], length 0
+17:49:03.355869 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 12692:14080, ack 1041, win 243, options [nop,nop,TS val 1037682615 ecr 3934685864], length 1388
+17:49:03.355870 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 9916, win 409, options [nop,nop,TS val 3934685985 ecr 1037682615], length 0
+17:49:03.355884 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 11304, win 431, options [nop,nop,TS val 3934685985 ecr 1037682615], length 0
+17:49:03.355956 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 12692, win 454, options [nop,nop,TS val 3934685985 ecr 1037682615], length 0
+17:49:03.355964 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 14080, win 477, options [nop,nop,TS val 3934685985 ecr 1037682615], length 0
+17:49:03.356211 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 14080:15468, ack 1041, win 243, options [nop,nop,TS val 1037682615 ecr 3934685864], length 1388
+17:49:03.356224 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 15468, win 499, options [nop,nop,TS val 3934685985 ecr 1037682615], length 0
+17:49:03.356232 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 15468:16856, ack 1041, win 243, options [nop,nop,TS val 1037682615 ecr 3934685864], length 1388
+17:49:03.356238 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 16856, win 522, options [nop,nop,TS val 3934685985 ecr 1037682615], length 0
+17:49:03.356243 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 16856:18244, ack 1041, win 243, options [nop,nop,TS val 1037682615 ecr 3934685864], length 1388
+17:49:03.356249 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 18244, win 544, options [nop,nop,TS val 3934685985 ecr 1037682615], length 0
+17:49:03.356255 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 18244:19632, ack 1041, win 243, options [nop,nop,TS val 1037682615 ecr 3934685864], length 1388
+17:49:03.356260 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 19632, win 567, options [nop,nop,TS val 3934685985 ecr 1037682615], length 0
+17:49:03.356299 IP run-Z87X-UD3H.46540 > ec2-54-84-177-104.compute-1.amazonaws.com.https: Flags [.], ack 5660, win 349, options [nop,nop,TS val 4243625512 ecr 3307222462], length 0
+17:49:03.357017 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 19632:21020, ack 1041, win 243, options [nop,nop,TS val 1037682615 ecr 3934685864], length 1388
+17:49:03.357035 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 21020, win 590, options [nop,nop,TS val 3934685986 ecr 1037682615], length 0
+17:49:03.357050 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 21020:22408, ack 1041, win 243, options [nop,nop,TS val 1037682615 ecr 3934685864], length 1388
+17:49:03.357057 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 22408, win 612, options [nop,nop,TS val 3934685986 ecr 1037682615], length 0
+17:49:03.357064 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 22408:23796, ack 1041, win 243, options [nop,nop,TS val 1037682615 ecr 3934685864], length 1388
+17:49:03.357070 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 23796, win 635, options [nop,nop,TS val 3934685986 ecr 1037682615], length 0
+17:49:03.357128 IP6 yyz10s05-in-x08.1e100.net.https > run-Z87X-UD3H.41910: Flags [P.], seq 2882:3166, ack 611, win 110, options [nop,nop,TS val 987714356 ecr 3137381549], length 284
+17:49:03.357258 IP6 yyz10s05-in-x08.1e100.net.https > run-Z87X-UD3H.41910: Flags [P.], seq 3166:3235, ack 1013, win 118, options [nop,nop,TS val 987714356 ecr 3137381549], length 69
+17:49:03.357365 IP6 yyz10s05-in-x08.1e100.net.https > run-Z87X-UD3H.41910: Flags [P.], seq 3235:3273, ack 1013, win 118, options [nop,nop,TS val 987714357 ecr 3137381549], length 38
+17:49:03.358022 IP6 run-Z87X-UD3H.41910 > yyz10s05-in-x08.1e100.net.https: Flags [P.], seq 1013:1051, ack 3273, win 295, options [nop,nop,TS val 3137381622 ecr 987714356], length 38
+17:49:03.361826 IP6 yyz10s05-in-x08.1e100.net.https > run-Z87X-UD3H.41910: Flags [P.], seq 3273:3615, ack 1013, win 118, options [nop,nop,TS val 987714382 ecr 3137381549], length 342
+17:49:03.361977 IP6 yyz10s05-in-x08.1e100.net.https > run-Z87X-UD3H.41910: Flags [P.], seq 3615:4823, ack 1013, win 118, options [nop,nop,TS val 987714382 ecr 3137381549], length 1208
+17:49:03.361988 IP6 run-Z87X-UD3H.41910 > yyz10s05-in-x08.1e100.net.https: Flags [.], ack 4823, win 332, options [nop,nop,TS val 3137381626 ecr 987714382], length 0
+17:49:03.362738 IP6 yyz10s05-in-x08.1e100.net.https > run-Z87X-UD3H.41910: Flags [.], seq 4823:6031, ack 1013, win 118, options [nop,nop,TS val 987714382 ecr 3137381549], length 1208
+17:49:03.363774 IP6 yyz10s05-in-x08.1e100.net.https > run-Z87X-UD3H.41910: Flags [P.], seq 6031:7239, ack 1013, win 118, options [nop,nop,TS val 987714382 ecr 3137381549], length 1208
+17:49:03.363784 IP6 run-Z87X-UD3H.41910 > yyz10s05-in-x08.1e100.net.https: Flags [.], ack 7239, win 370, options [nop,nop,TS val 3137381628 ecr 987714382], length 0
+17:49:03.364709 IP6 yyz10s05-in-x08.1e100.net.https > run-Z87X-UD3H.41910: Flags [.], seq 7239:8447, ack 1013, win 118, options [nop,nop,TS val 987714382 ecr 3137381549], length 1208
+17:49:03.365798 IP6 yyz10s05-in-x08.1e100.net.https > run-Z87X-UD3H.41910: Flags [.], seq 8447:9655, ack 1013, win 118, options [nop,nop,TS val 987714382 ecr 3137381549], length 1208
+17:49:03.365808 IP6 run-Z87X-UD3H.41910 > yyz10s05-in-x08.1e100.net.https: Flags [.], ack 9655, win 408, options [nop,nop,TS val 3137381630 ecr 987714382], length 0
+17:49:03.367840 IP6 yyz10s05-in-x08.1e100.net.https > run-Z87X-UD3H.41910: Flags [.], seq 9655:10863, ack 1013, win 118, options [nop,nop,TS val 987714383 ecr 3137381549], length 1208
+17:49:03.368750 IP6 yyz10s05-in-x08.1e100.net.https > run-Z87X-UD3H.41910: Flags [.], seq 10863:12071, ack 1013, win 118, options [nop,nop,TS val 987714383 ecr 3137381549], length 1208
+17:49:03.368757 IP6 run-Z87X-UD3H.41910 > yyz10s05-in-x08.1e100.net.https: Flags [.], ack 12071, win 446, options [nop,nop,TS val 3137381633 ecr 987714383], length 0
+17:49:03.369692 IP6 yyz10s05-in-x08.1e100.net.https > run-Z87X-UD3H.41910: Flags [.], seq 12071:13279, ack 1013, win 118, options [nop,nop,TS val 987714386 ecr 3137381549], length 1208
+17:49:03.370794 IP6 yyz10s05-in-x08.1e100.net.https > run-Z87X-UD3H.41910: Flags [.], seq 13279:14487, ack 1013, win 118, options [nop,nop,TS val 987714386 ecr 3137381549], length 1208
+17:49:03.370802 IP6 run-Z87X-UD3H.41910 > yyz10s05-in-x08.1e100.net.https: Flags [.], ack 14487, win 483, options [nop,nop,TS val 3137381635 ecr 987714386], length 0
+17:49:03.391858 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 23796:25184, ack 1041, win 243, options [nop,nop,TS val 1037682674 ecr 3934685954], length 1388
+17:49:03.391885 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 25184, win 658, options [nop,nop,TS val 3934686021 ecr 1037682674], length 0
+17:49:03.392038 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 25184:26572, ack 1041, win 243, options [nop,nop,TS val 1037682674 ecr 3934685954], length 1388
+17:49:03.392048 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 26572, win 680, options [nop,nop,TS val 3934686021 ecr 1037682674], length 0
+17:49:03.399874 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 26572:27960, ack 1041, win 243, options [nop,nop,TS val 1037682675 ecr 3934685985], length 1388
+17:49:03.399892 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 27960, win 703, options [nop,nop,TS val 3934686029 ecr 1037682675], length 0
+17:49:03.400027 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 27960:29348, ack 1041, win 243, options [nop,nop,TS val 1037682675 ecr 3934685985], length 1388
+17:49:03.400036 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 29348, win 725, options [nop,nop,TS val 3934686029 ecr 1037682675], length 0
+17:49:03.400236 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 29348:30736, ack 1041, win 243, options [nop,nop,TS val 1037682675 ecr 3934685985], length 1388
+17:49:03.400248 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 30736, win 748, options [nop,nop,TS val 3934686029 ecr 1037682675], length 0
+17:49:03.401251 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 30736:32124, ack 1041, win 243, options [nop,nop,TS val 1037682675 ecr 3934685985], length 1388
+17:49:03.401262 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 32124, win 771, options [nop,nop,TS val 3934686030 ecr 1037682675], length 0
+17:49:03.401444 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 32124:33512, ack 1041, win 243, options [nop,nop,TS val 1037682675 ecr 3934685985], length 1388
+17:49:03.401455 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 33512, win 793, options [nop,nop,TS val 3934686030 ecr 1037682675], length 0
+17:49:03.401631 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 33512:34900, ack 1041, win 243, options [nop,nop,TS val 1037682675 ecr 3934685985], length 1388
+17:49:03.401639 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 34900, win 816, options [nop,nop,TS val 3934686031 ecr 1037682675], length 0
+17:49:03.404813 IP6 yyz10s05-in-x08.1e100.net.https > run-Z87X-UD3H.41910: Flags [.], seq 14487:15695, ack 1013, win 118, options [nop,nop,TS val 987714417 ecr 3137381549], length 1208
+17:49:03.404992 IP6 yyz10s05-in-x08.1e100.net.https > run-Z87X-UD3H.41910: Flags [.], seq 15695:16903, ack 1013, win 118, options [nop,nop,TS val 987714417 ecr 3137381549], length 1208
+17:49:03.405000 IP6 run-Z87X-UD3H.41910 > yyz10s05-in-x08.1e100.net.https: Flags [.], ack 16903, win 521, options [nop,nop,TS val 3137381669 ecr 987714417], length 0
+17:49:03.405189 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 34900:36288, ack 1041, win 243, options [nop,nop,TS val 1037682682 ecr 3934685985], length 1388
+17:49:03.405201 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 36288, win 839, options [nop,nop,TS val 3934686034 ecr 1037682682], length 0
+17:49:03.407027 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 36288:37676, ack 1041, win 243, options [nop,nop,TS val 1037682682 ecr 3934685985], length 1388
+17:49:03.407043 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 37676, win 861, options [nop,nop,TS val 3934686036 ecr 1037682682], length 0
+17:49:03.407058 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 37676:39064, ack 1041, win 243, options [nop,nop,TS val 1037682682 ecr 3934685985], length 1388
+17:49:03.407064 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 39064, win 884, options [nop,nop,TS val 3934686036 ecr 1037682682], length 0
+17:49:03.407070 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 39064:40452, ack 1041, win 243, options [nop,nop,TS val 1037682682 ecr 3934685985], length 1388
+17:49:03.407075 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 40452, win 906, options [nop,nop,TS val 3934686036 ecr 1037682682], length 0
+17:49:03.407274 IP6 yyz10s05-in-x08.1e100.net.https > run-Z87X-UD3H.41910: Flags [.], seq 16903:18111, ack 1013, win 118, options [nop,nop,TS val 987714417 ecr 3137381549], length 1208
+17:49:03.407285 IP6 yyz10s05-in-x08.1e100.net.https > run-Z87X-UD3H.41910: Flags [.], seq 18111:19319, ack 1013, win 118, options [nop,nop,TS val 987714417 ecr 3137381549], length 1208
+17:49:03.407292 IP6 run-Z87X-UD3H.41910 > yyz10s05-in-x08.1e100.net.https: Flags [.], ack 19319, win 559, options [nop,nop,TS val 3137381671 ecr 987714417], length 0
+17:49:03.407461 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 40452:41840, ack 1041, win 243, options [nop,nop,TS val 1037682682 ecr 3934685985], length 1388
+17:49:03.407471 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 41840, win 929, options [nop,nop,TS val 3934686036 ecr 1037682682], length 0
+17:49:03.407660 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 41840:43228, ack 1041, win 243, options [nop,nop,TS val 1037682682 ecr 3934685985], length 1388
+17:49:03.407669 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 43228, win 952, options [nop,nop,TS val 3934686037 ecr 1037682682], length 0
+17:49:03.411201 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 43228:44616, ack 1041, win 243, options [nop,nop,TS val 1037682682 ecr 3934685985], length 1388
+17:49:03.411226 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 44616, win 974, options [nop,nop,TS val 3934686040 ecr 1037682682], length 0
+17:49:03.411354 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 44616:46004, ack 1041, win 243, options [nop,nop,TS val 1037682682 ecr 3934685985], length 1388
+17:49:03.411364 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 46004, win 997, options [nop,nop,TS val 3934686040 ecr 1037682682], length 0
+17:49:03.411724 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 46004:47392, ack 1041, win 243, options [nop,nop,TS val 1037682683 ecr 3934685985], length 1388
+17:49:03.411735 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 47392, win 1020, options [nop,nop,TS val 3934686041 ecr 1037682683], length 0
+17:49:03.411745 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 47392:48780, ack 1041, win 243, options [nop,nop,TS val 1037682683 ecr 3934685985], length 1388
+17:49:03.411750 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 48780, win 1042, options [nop,nop,TS val 3934686041 ecr 1037682683], length 0
+17:49:03.411755 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 48780:50168, ack 1041, win 243, options [nop,nop,TS val 1037682683 ecr 3934685985], length 1388
+17:49:03.411759 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 50168, win 1065, options [nop,nop,TS val 3934686041 ecr 1037682683], length 0
+17:49:03.411914 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 50168:51556, ack 1041, win 243, options [nop,nop,TS val 1037682683 ecr 3934685985], length 1388
+17:49:03.411922 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 51556, win 1087, options [nop,nop,TS val 3934686041 ecr 1037682683], length 0
+17:49:03.412273 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 51556:52944, ack 1041, win 243, options [nop,nop,TS val 1037682683 ecr 3934685985], length 1388
+17:49:03.412280 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 52944, win 1110, options [nop,nop,TS val 3934686041 ecr 1037682683], length 0
+17:49:03.412289 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 52944:54332, ack 1041, win 243, options [nop,nop,TS val 1037682683 ecr 3934685985], length 1388
+17:49:03.412303 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 54332, win 1133, options [nop,nop,TS val 3934686041 ecr 1037682683], length 0
+17:49:03.412308 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 54332:55720, ack 1041, win 243, options [nop,nop,TS val 1037682683 ecr 3934685985], length 1388
+17:49:03.412313 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 55720, win 1155, options [nop,nop,TS val 3934686041 ecr 1037682683], length 0
+17:49:03.412547 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 55720:57108, ack 1041, win 243, options [nop,nop,TS val 1037682683 ecr 3934685985], length 1388
+17:49:03.412561 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 57108, win 1178, options [nop,nop,TS val 3934686041 ecr 1037682683], length 0
+17:49:03.412572 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 57108:58496, ack 1041, win 243, options [nop,nop,TS val 1037682683 ecr 3934685985], length 1388
+17:49:03.412578 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 58496, win 1201, options [nop,nop,TS val 3934686041 ecr 1037682683], length 0
+17:49:03.412743 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 58496:59884, ack 1041, win 243, options [nop,nop,TS val 1037682683 ecr 3934685985], length 1388
+17:49:03.412752 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 59884, win 1223, options [nop,nop,TS val 3934686042 ecr 1037682683], length 0
+17:49:03.412935 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 59884:61272, ack 1041, win 243, options [nop,nop,TS val 1037682683 ecr 3934685986], length 1388
+17:49:03.412944 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 61272, win 1246, options [nop,nop,TS val 3934686042 ecr 1037682683], length 0
+17:49:03.446060 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 61272:62660, ack 1041, win 243, options [nop,nop,TS val 1037682683 ecr 3934685986], length 1388
+17:49:03.446084 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 62660, win 1268, options [nop,nop,TS val 3934686075 ecr 1037682683], length 0
+17:49:03.446102 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 62660:64048, ack 1041, win 243, options [nop,nop,TS val 1037682683 ecr 3934685986], length 1388
+17:49:03.446107 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 64048, win 1291, options [nop,nop,TS val 3934686075 ecr 1037682683], length 0
+17:49:03.446113 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 64048:65436, ack 1041, win 243, options [nop,nop,TS val 1037682683 ecr 3934685986], length 1388
+17:49:03.446118 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 65436, win 1314, options [nop,nop,TS val 3934686075 ecr 1037682683], length 0
+17:49:03.446123 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 65436:66824, ack 1041, win 243, options [nop,nop,TS val 1037682683 ecr 3934685986], length 1388
+17:49:03.446126 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 66824, win 1336, options [nop,nop,TS val 3934686075 ecr 1037682683], length 0
+17:49:03.446130 IP a23-216-79-88.deploy.static.akamaitechnologies.com.https > run-Z87X-UD3H.56288: Flags [.], seq 66824:68212, ack 1041, win 243, options [nop,nop,TS val 1037682683 ecr 3934685986], length 1388
+17:49:03.446134 IP run-Z87X-UD3H.56288 > a23-216-79-88.deploy.static.akamaitechnologies.com.https: Flags [.], ack 68212, win 1359, options [nop,nop,TS val 3934686075 ecr 1037682683], length 0
+17:49:03.446138 IP6 yyz10s05-in-x08.1e100.net.https > run-Z87X-UD3H.41910: Flags [.], seq 19319:20527, ack 1013, win 118, options [nop,nop,TS val 987714417 ecr 3137381549], length 1208
